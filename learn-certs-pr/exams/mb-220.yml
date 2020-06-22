@@ -8,14 +8,14 @@ displayName: MB-220
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il il 19 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il martedì 19 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
   </div>
 
-  I candidati idonei a questo esame sono consulenti funzionali di Microsoft Dynamics 365 Customer Engagement con esperienza nel campo del marketing. Si occupano di implementare soluzioni che consentano di attirare e convertire i lead; creare la consapevolezza del marchio; standardizzare la messaggistica multicanale; distribuire informazioni di marketing.
+  I candidati idonei a questo esame sono consulenti funzionali di Dynamics 365 Customer Engagement con esperienza nel campo del marketing. I candidati hanno il compito di implementare soluzioni che consentano di attirare e convertire i lead; creare la consapevolezza del marchio; standardizzare la messaggistica multicanale; distribuire informazioni di marketing.
 
-  Devono essere in grado di configurare ed espandere l’applicazione di marketing di base per includere il marketing per posta elettronica; configurare percorsi cliente interattivi; sviluppare lead con esperienze personalizzate, l’integrazione di LinkedIn, eventi, applicazioni vocali dei clienti, pagine di arrivo, segmentazione e punteggi; garantire la conformità al General Data Protection Regulation (GDPR).
+  I candidati devono essere in grado di configurare ed espandere l’applicazione di marketing di base per includere il marketing per posta elettronica; configurare percorsi cliente interattivi; sviluppare lead con esperienze personalizzate, integrare LinkedIn, eventi, applicazioni vocali dei clienti, pagine di arrivo, segmentazione e punteggio; garantire la conformità al Regolamento generale per la protezione dei dati (GDPR).
 
-  Devono inoltre avere qualche nozione dei principi di marketing e del ruolo dell’applicazione di marketing rispetto alla suite di applicazioni Microsoft Dynamics 365, nonché di come Microsoft Dynamics 365 si integra con le applicazioni di Office 365. Devono anche conoscere la terminologia del settore, le priorità, le iniziative comuni, gli standard, le metodologie e la prassi migliori.
+  I candidati devono avere qualche nozione dei principi di marketing e del ruolo dell’applicazione di marketing rispetto alla suite di applicazioni Dynamics 365, nonché sapere come Dynamics 365 si integra con le applicazioni di Office 365. I candidati devono conoscere la terminologia del settore, le priorità, le iniziative comuni, gli standard, le metodologie e le prassi migliori.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: configurare applicazioni di marketing; gestire segmenti ed elenchi; creare e gestire i moduli e le pagine di marketing; gestire i lead; creare e gestire messaggi di posta elettronica di marketing; gestire i percorsi clienti; gestire eventi e webinar; e configurare e analizzare le risposte dei clienti.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjQ
@@ -25,7 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il il 19 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il martedì 19 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Configurare applicazioni di marketing (5-10%)
 - Gestire segmenti ed elenchi (10-15%)
 - Creare e gestire moduli e pagine di marketing (10-15%)
@@ -58,10 +58,10 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -70,7 +70,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

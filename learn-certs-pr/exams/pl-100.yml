@@ -1,0 +1,97 @@
+### YamlMime:Examination
+title: 'Microsoft Power Platform App Maker (beta)'
+metadata:
+  title: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+  description: 'Exam PL-100: Microsoft Power Platform App Maker (beta)'
+uid: exam.pl-100
+displayName: PL-100
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+    
+  Il creatore di app crea soluzioni per semplificare, automatizzare e trasformare attività e processi per loro stessi e il loro team in cui hanno una profonda esperienza nel campo della soluzione. Sono specializzati in attività chiave di analista tecnico-commerciale come la modellazione dei dati, la progettazione di base delle UX, l'analisi dei requisiti, l'analisi dei processi, ecc.<br/><br/>
+
+  Il creatore di app crea e applica processi aziendali, struttura la raccolta digitale di informazioni, migliora l'efficienza delle attività ripetibili e automatizza i processi aziendali.
+
+  Il creatore di app utilizza gli strumenti di creatozione di Power Platform per risolvere i problemi aziendali. Potrebbero avere esperienza con Visual Basic for Applications, tabelle pivot di Excel, team e altri strumenti. Dovrebbero avere una conoscenza di base dei modelli di dati, dell'interfaccia utente e dei processi. Il creatore di app è a conoscenza delle capacità e dei limiti degli strumenti disponibili e sa come applicarli.
+
+  Il creatore di app è autonomo ed è focalizzato sulla soluzione. Potrebbero non avere una formazione IT formale ma sono a loro agio nell'usare la tecnologia per risolvere i problemi aziendali con una mentalità di crescita personale. Conoscono le necessità operative e hanno una visione del risultato desiderato. Affrontano i problemi con strategie graduali e iterative.  
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Questo esame sarà disponibile intorno a luglio 2020.</div>
+subTitle: 'Questo esame sarà disponibile intorno a luglio 2020. Questo esame misura la tua capacità nello svolgere le seguenti attività tecniche: progettazione di soluzioni, creazione di soluzioni; analisi di dati e implementazione e gestione di soluzioni.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wo07
+locales:
+- en
+levels:
+- intermediate
+skills:
+- Progettare soluzioni (10-15%)
+- Creare soluzioni (50-55%)
+- Analizzare dati (5-10%)
+- Implementare e gestire soluzioni (15-20%)
+roles:
+- business-analyst
+- business-owner
+- business-user
+- data-analyst
+- developer
+- devops-engineer
+- functional-consultant
+- maker
+- technology-manager
+products:
+- dynamics
+- office
+- office-access
+- office-excel
+- office-exchange-server
+- office-365
+- office-365-atp
+- office-add-ins
+- office-onedrive
+- office-onenote
+- office-outlook
+- office-planner
+- office-powerpoint
+- office-project
+- office-project-server
+- office-publisher
+- office-sp
+- office-sp-designer
+- office-teams
+- office-visio
+- office-word
+- power-platform
+- ai-builder
+- common-data-service
+- forms-pro
+- power-automate
+- power-bi
+- power-apps
+- power-virtual-agents
+relatedCertifications:
+- related:
+    uid: certification.power-platform-app-maker
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Assistenza per gli esami di certificazione
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi i criteri dell’esame e le domande frequenti.
+  href: ../certification-exam-policies.md
+

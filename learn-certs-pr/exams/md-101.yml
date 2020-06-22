@@ -1,47 +1,46 @@
 ### YamlMime:Examination
 title: Managing Modern Desktops
 metadata:
-  title: 'Esame MD-101: Managing Modern Desktops'
-  description: 'Esame MD-101: Managing Modern Desktops'
+  title: 'Exam MD-101: Managing Modern Desktops'
+  description: 'Exam MD-101: Managing Modern Desktops'
 uid: exam.md-101
 displayName: MD-101
-summary: >-
-  Se hai superato l’[Esame 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) prima che scadesse il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Desktop moderni. I candidati a questo esame sono amministratori in grado di distribuire, configurare, proteggere, gestire e monitorare dispositivi e applicazioni client in un ambiente aziendale. I candidati sono in grado di gestire identità, accessi, criteri, aggiornamenti e app.
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
 
+  Se hai superato l’[Exam 70-698](https://www.microsoft.com/learning/exam-70-698.aspx) prima che scadesse il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Desktop moderni. I candidati idonei a questo esame sono amministratori in grado di distribuire, configurare, proteggere, gestire e monitorare dispositivi e applicazioni client in un ambiente aziendale. I candidati sono in grado di gestire identità, accessi, criteri, aggiornamenti e app.
   <br/>
-
 
   In qualità di amministratori, in genere i candidati collaborano con l’Amministratore di Microsoft 365 Enterprise per progettare e implementare una strategia per i dispositivi che soddisfi le esigenze aziendali di un’organizzazione moderna.
 
-  <br/>
-
-
-  I candidati devono conoscere i carichi di lavoro Microsoft 365 e devono esperti nell’installazione, configurazione e manutenzione di dispositivi e tecnologie Windows 10 e non Windows.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: installare e aggiornare i sistemi operativi; gestire criteri e profili; gestire e proteggere i dispositivi e gestire app e dati. Se hai superato l’Esame 70-698 prima che scadesse il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Modern Desktop.'
+  I candidati devono conoscere i carichi di lavoro Microsoft 365 e devono esperti nella distribuzione, configurazione e manutenzione di dispositivi e tecnologie Windows 10 e non Windows.
+subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: installare e aggiornare i sistemi operativi; gestire criteri e profili; gestire e proteggere i dispositivi e gestire app e dati. Se hai superato l’ Esame 70-698 prima che scadesse il 31 marzo 2019, devi solo superare l’esame MD-101 per ottenere la certificazione Desktop Moderni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VJVD
 practiceTestUrl: https://us.mindhub.com/p/MU-MD-101?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MD-101&examname=Exam%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MD-101&examname=Esame%20MD-101:%20Managing%20Modern%20Desktops&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmd-101
 levels:
 - intermediate
 skills:
-- Distribuire e aggiornare i sistemi operativi (15-20%)
-- Gestire criteri e profili (35-40%)
-- Gestire e proteggere i dispositivi (15-20%)
-- Gestire app e dati (25-30%)
+- Distribuire e aggiornare i sistemi operativi (35-40%)
+- Gestire criteri e profili (25-30%)
+- Gestire e proteggere i dispositivi (20-25%)
+- Gestire app e dati (10-15%)
 roles:
 - administrator
-exams:
-- uid: exam.md-100
 products:
 - m365
 - windows
+exams:
+- uid: exam.md-100
 courses:
-- uid: course.md-101t01
-- uid: course.md-101t02
-- uid: course.md-101t03
+- uid: course.md-101t00
+paths:
+- uid: learn-wwl.modernize-workplace-with-m365-and-surface-v1-1
+- uid: learn-m365.microsoft-365-get-modern
+- uid: learn-m365.manage-enterprise-deployment-m365
 relatedCertifications:
 - related:
     uid: certification.modern-desktop
@@ -52,18 +51,22 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi un alloggio
-  description: Scopri come richiedere un alloggio per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

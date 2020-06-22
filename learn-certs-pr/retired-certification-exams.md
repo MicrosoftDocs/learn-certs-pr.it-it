@@ -66,6 +66,10 @@ Scopri gli esami che sarranno ritirati nei prossimi 12 mesi, elencati per tecnol
 
 | Esami che saranno ritirati il lunedì 31 agosto 2020 | |
 | --- | --- |
+| [MS-200](/learn/certifications/exams/ms-200): Planning and Configuring a Messaging Platform |  |
+| [MS-201](/learn/certifications/exams/ms-201): Implementing a Hybrid and Secure Messaging Platform |  |
+| [MS-300](/learn/certifications/exams/ms-300): Deploying Microsoft 365 Teamwork |  |
+| [MS-301](/learn/certifications/exams/ms-301): Deploying SharePoint Server Hybrid |  |
 | [AZ-103](https://www.microsoft.com/learning/exam-AZ-103.aspx): Microsoft Azure Administrator |  |
 | [AZ-203](https://www.microsoft.com/learning/exam-AZ-203.aspx): Developing Solutions for Microsoft Azure |  |
 
@@ -108,7 +112,7 @@ A scopo di riferimento, per gli esami che sono stati ritirati durante l’anno s
 | 70-532 | Developing Microsoft Azure Solutions | 31 dicembre 2018
 | 70-533 | Implementing Microsoft Azure Infrastructure Solutions | 31 dicembre 2018
 | 70-534 | Architecting Microsoft Azure Solutions | 31 dicembre 2017
-| 70-535 | Architecting Microsoft Azure Solutions | 31 dicembre 2018
+| 70-535 | Architecting Microsoft Azure Solutions | lunedì 31 dicembre 2018
 | 70-680 | Windows 7, Configuring | 31 luglio 2018
 | 70-685 | Windows 7, Enterprise Desktop Support Technician | 31 luglio 2018
 | 70-686 | Windows 7, Enterprise Desktop Administrator | 31 luglio 2018

@@ -1,63 +1,72 @@
 ### YamlMime:Examination
 title: Planning and Configuring a Messaging Platform
 metadata:
-  title: 'Esame MS-200: Planning and Configuring a Messaging Platform'
-  description: 'Esame MS-200: Planning and Configuring a Messaging Platform'
+  title: 'Exam MS-200: Planning and Configuring a Messaging Platform'
+  description: 'Exam MS-200: Planning and Configuring a Messaging Platform'
 uid: exam.ms-200
 displayName: MS-200
-summary: >-
-  I candidati a questo esame sono amministratori di messaggistica che installano, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta elettronica, il flusso della posta elettronica e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href="/learn/certifications/exams/ms-203">MS-203</a>, È STATA RESA DISPONIBILE IL 2 GIUGNO 2020. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il lunedì 31 agosto 2020 o intorno a tale data. Nota&#58; Gli esami vengono ritirati alle 23&#58;59 (CST).<br/><br/></div>
+  </div>
 
+  I candidati idonei a questo esame sono amministratori della messaggistica che distribuiscono, configurano, gestiscono, risolvono i problemi e monitorano i destinatari, le autorizzazioni, la protezione della posta, il flusso di posta e le cartelle pubbliche sia negli ambienti aziendali sia nei cloud aziendali.
 
   Gli amministratori della messaggistica sono responsabili della gestione della pulizia, dell'infrastruttura di messaggistica, della configurazione ibrida, della migrazione, del ripristino di emergenza, dell'alta disponibilità e dell'accesso client.
 
-
   Gli amministratori della messaggistica collaborano con l'amministratore della sicurezza e l'amministratore di Microsoft 365 Enterprise per implementare una topologia ibrida sicura che soddisfi le esigenze aziendali di un'azienda moderna.
 
-
   L'amministratore della messaggistica deve avere una conoscenza operativa dei tipi di autenticazione, delle licenze e dell'integrazione con le applicazioni Microsoft 365.
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Otterrai la seguente certificazione se superi questo esame&#58; <a href="/learn/certifications/m365-messaging-administrator">Microsoft 365 Certified&#58; Messaging Administrator Associate</a>.</div>
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: gestire le moderne infrastrutture di messaggistica; gestire la topologia del flusso di posta; e gestire i destinatari e i dispositivi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUk7
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-200&examname=Exam%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-200
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-200&examname=Esame%20MS-200:%20Planning%20and%20Configuring%20a%20Messaging%20Platform&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-200
 levels:
 - intermediate
 skills:
 - Gestire le moderne infrastrutture di messaggistica (45-50%)
 - Gestire la topologia del flusso di posta (35-40%)
 - Gestire i destinatari e i dispositivi (15-20%)
+retirementDate: 08/31/2020
 roles:
 - administrator
-exams:
-- uid: exam.ms-201
 products:
 - m365
+exams:
+- uid: exam.ms-201
 courses:
 - uid: course.ms-200t01
 - uid: course.ms-200t02
 - uid: course.ms-200t03
 relatedCertifications:
 - related:
-    uid: certification.m365-messaging-administrator
+    uid: none
 resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi un alloggio
-  description: Scopri come richiedere un alloggio per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri dell'esame e domande frequenti
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

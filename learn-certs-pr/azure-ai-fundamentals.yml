@@ -1,0 +1,72 @@
+### YamlMime:Certification
+title: 'Microsoft Certified: Azure AI Fundamentals'
+metadata:
+  title: 'Microsoft Certified: Azure AI Fundamentals'
+  description: Questa certificazione sarà disponibile l'8 giugno 2020 o intorno a tale data. Azure AI Fundamentals convalida la conoscenza di base dei concetti di machine learning e intelligenza artificiale e dei relativi servizi di Microsoft Azure.
+uid: certification.azure-ai-fundamentals
+iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
+summary: |-
+  <div><strong><font color='red'>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</font></strong><br/><br/></div>
+
+  I candidati alla certificazione Azure AI Fundamentals dovrebbero avere una conoscenza di base dei concetti di machine learning (ML) e intelligenza artificiale (IA) e dei relativi servizi di Microsoft Azure.  
+
+  Questa certificazione è un'opportunità per dimostrare la conoscenza dei comuni carichi di lavoro ML e IA e su come implementarli in Azure.  
+
+  Questa certificazione è destinata a candidati con background sia tecnico che non. Non è richiesta esperienza di ingegneria dei dati e di scienza dei dati; tuttavia, sarebbero utili alcune conoscenze o esperienze di programmazione generale.  
+
+  I principi fondamentali di Azure AI possono essere usati per preparare altre certificazioni basate sul ruolo di Azure come Azure Data Scientist Associate o Azure AI Engineer Associate, ma non è un prerequisito per alcuno di essi.  
+
+  <div><br/><strong>Nota&#58; Questa certificazione sarà disponibile l'8 giugno 2020 o intorno a tale data.</strong></div>
+subTitle: Questa certificazione sarà disponibile l'8 giugno 2020 o intorno a tale data. Azure AI Fundamentals convalida la conoscenza di base dei concetti di machine learning e intelligenza artificiale e dei relativi servizi di Microsoft Azure.
+levels:
+- beginner
+skills:
+- Descrivere i carichi di lavoro e le considerazioni sull'IA
+- Descrivere i principi fondamentali del machine learning in Azure
+- Descrivere le funzionalità di visione dei carichi di lavoro sul computer su Azure
+- Descrivere le funzionalità dei carichi di lavoro dell'IA conversazionale su Azure
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+type: fundamentals
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wAEF
+exams:
+- uid: exam.ai-900
+resources:
+- title: Poster delle certificazioni di Azure
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: deals.md
+- title: Assistenza per le certificazioni
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+

@@ -2,18 +2,23 @@
 title: 'Microsoft Office Specialist: Microsoft Excel Expert (Excel and Excel 2019)'
 metadata:
   title: 'Microsoft Office Specialist: Microsoft Excel Expert (Excel and Excel 2019)'
-  description: 'Dimostra di avere le competenze necessarie per sfruttare al meglio Office ottenendo una certificazione Microsoft Office Specialist: Expert in un programma di Office specifico.'
+  description: 'Dimostra di avere le competenze necessarie per ottenere il massimo da Excel ottenendo la certificazione di Microsoft Office Specialist:  Excel Expert.'
 uid: certification.mos-excel-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: 'Dimostra di avere le competenze necessarie per sfruttare al meglio Office ottenendo una certificazione Microsoft Office Specialist: Expert in un programma di Office specifico.'
-subTitle: Questa certificazione ti permette di dimostrare che hai le competenze necessarie per sfruttare al massimo Office ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico.
+summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  Dimostra di avere le competenze necessarie per ottenere il massimo da Excel ottenendo la certificazione di Microsoft Office Specialist&#58; Excel Expert. Questa certificazione dimostra competenza nella creazione, gestione e distribuzione di fogli di calcolo professionali per una varietà di scopi e situazioni specializzati.
+
+  I candidati che ottengono questa certificazione hanno circa 150 ore di formazione teorica e pratica nell’uso del prodotto, oltre a competenze comprovate a livello di Expert e sono pronti ad affacciarsi sul mercato del lavoro. Sono in grado di applicare correttamente le funzionalità principali di Excel a livello di Expert e di portare a termine le attività in modo indipendente.
+subTitle: 'Dimostra di avere le competenze necessarie per ottenere il massimo da Excel ottenendo la certificazione di Microsoft Office Specialist: Excel Expert.'
 levels:
 - advanced
 skills:
 - Gestire le opzioni e le impostazioni delle cartelle di lavoro
 - Gestire e formattare i dati
 - Creare formule e macro avanzate
-- Creare tabelle e grafici avanzati
+- Gestire tabelle e grafici avanzati
 roles:
 - business-user
 type: mos
@@ -27,12 +32,13 @@ resources:
 - title: Guida alla formazione e alle certificazioni Microsoft
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

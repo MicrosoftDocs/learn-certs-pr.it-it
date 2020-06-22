@@ -1,21 +1,24 @@
-﻿### YamlMime:Certification
-title: Microsoft Certified Power Platform Fundamentals
+### YamlMime:Certification
+title: 'Microsoft Certified: Power Platform Fundamentals'
 metadata:
-  title: Microsoft Certified Power Platform Fundamentals
-  description: Dimostra di conoscere le funzionalità di base di Power Platform, dal suo valore di business alle funzionalità di base del prodotto, e di saper creare un’app canvas con le Power Apps, collegare le origini dei dati, usare Microsoft Automate per l’automazione e creare una dashboard Power BI.
+  title: 'Microsoft Certified: Power Platform Fundamentals'
+  description: Dimostra di conoscere le funzionalità principali di Power Platform - dal valore aziendale e dalle funzionalità principali del prodotto alla creazione di una semplice app canvas Power Apps, alla connessione di origini dati, all'automazione dei processi aziendali di base con Power Automate, alla creazione di un dashboard di Power BI e alla creazione di potenti chatbot con Power Virtual Agents.
 uid: certification.power-platform-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
 summary: |-
-  Dimostra di conoscere le funzionalità di base di Power Platform, dal suo valore di business alle funzionalità di base del prodotto, e di saper creare un’app canvas con le Power Apps, collegare le origini dei dati, usare Microsoft Automate per l’automazione e creare una dashboard Power BI.
-subTitle: Dimostra di conoscere le funzionalità di base di Power Platform, dal suo valore di business alle funzionalità di base del prodotto, e di saper creare un’app canvas con le Power Apps, collegare le origini dei dati, usare Microsoft Automate per l’automazione e creare una dashboard Power BI.
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  Dimostra di conoscere le funzionalità principali di Power Platform - dal valore aziendale e dalle funzionalità principali del prodotto alla creazione di una semplice app canvas Power Apps, alla connessione di origini dati, all'automazione dei processi aziendali di base con Power Automate, alla creazione di un dashboard di Power BI e alla creazione di potenti chatbot con Power Virtual Agents.
+subTitle: Dimostra di conoscere le funzionalità principali di Power Platform - dal valore aziendale e dalle funzionalità principali del prodotto alla creazione di una semplice app canvas Power Apps, alla connessione di origini dati, all'automazione dei processi aziendali di base con Power Automate, alla creazione di un dashboard di Power BI e alla creazione di potenti chatbot con Power Virtual Agents.
 levels:
 - beginner
 skills:
-- Comprendere il valore di business di Power Platform
-- Conoscere i componenti di base di Power Platform
-- Dimostrare il valore di business di Power BI
-- Dimostrare il valore di business di Power Apps
-- Dimostrare il valore di business di Power Automate
+- Descrivere il valore aziendale di Power Platform
+- Identificare i componenti principali di Power Platform
+- Descrivere il valore aziendale di Power BI
+- Descrivere il valore aziendale di Power Apps
+- Descrivere il valore aziendale di Power Automate
+- Dimostrare il valore aziendale di Power Virtual Agents
 roles:
 - business-user
 - functional-consultant
@@ -36,7 +39,7 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Exam Replay
@@ -48,3 +51,4 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

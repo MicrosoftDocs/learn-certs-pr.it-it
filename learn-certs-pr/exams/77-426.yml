@@ -1,0 +1,56 @@
+### YamlMime:Examination
+title: Word 2013 Expert Part Two
+metadata:
+  title: 'Exam 77-426: Word 2013 Expert Part Two'
+  description: 'Exam 77-426: Word 2013 Expert Part Two'
+uid: exam.77-426
+displayName: 77-426
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  Questo esame è pensato per i candidati di livello Esperto che hanno una conoscenza approfondita dell'ambiente Word e sono in grado di aiutare altri utenti a utilizzare correttamente le funzionalità di Word 2013. Devono conoscere e dimostrare di sapere utilizzare le funzionalità avanzate e specifiche dell'applicazione. I candidati devono essere in grado di creare, gestire e distribuire documenti professionali per numerosi scopi particolari e in più situazioni. Inoltre, devono essere in grado di personalizzare gli ambienti Word in base alle esigenze e per migliorare la produttività. Gli esempi di documenti includono piani aziendali, documenti legali, brochure pubblicitarie e invio in massa di messaggi di posta elettronica. I ruoli dei candidati possono includere ad esempio editor, project manager, istruttori, studenti, redattori tecnici ed altri.
+subTitle: Questo esame è pensato per i candidati di livello Esperto che hanno una conoscenza approfondita dell'ambiente Word e sono in grado di aiutare altri utenti a utilizzare correttamente le funzionalità di Word 2013. Devono conoscere e dimostrare di sapere utilizzare le funzionalità avanzate e specifiche dell'applicazione. I candidati devono essere in grado di creare, gestire e distribuire documenti professionali per numerosi scopi particolari e in più situazioni. Inoltre, devono essere in grado di personalizzare gli ambienti Word in base alle esigenze e per migliorare la produttività. Gli esempi di documenti includono piani aziendali, documenti legali, brochure pubblicitarie e invio in massa di messaggi di posta elettronica. I ruoli dei candidati possono includere ad esempio editor, project manager, istruttori, studenti, redattori tecnici ed altri.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tfIV
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-426&examname=Word%202013%20Expert%20Part%20Two&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-426
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Gestire e condividere documenti (25-30%)
+- Progettare documenti avanzati (25-30%)
+- Creare riferimenti avanzati (25-30%)
+- Creare elementi Word personalizzati (20-25%)
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: certification.microsoft-office-specialist-expert-certification-2013
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

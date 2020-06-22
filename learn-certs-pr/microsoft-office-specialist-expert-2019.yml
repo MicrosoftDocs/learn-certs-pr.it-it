@@ -5,16 +5,32 @@ metadata:
   description: 'Dimostra di avere le competenze necessarie per sfruttare al meglio Office ottenendo una certificazione Microsoft Office Specialist: Expert per più programmi di Office.'
 uid: certification.microsoft-office-specialist-expert-2019
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: 'Dimostra di avere le competenze necessarie per sfruttare al meglio Office ottenendo una certificazione Microsoft Office Specialist: certificazione di esperti in più programmi di Office.'
+summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></font></div>
+
+  Dimostra di avere le competenze necessarie per sfruttare al meglio Office ottenendo una certificazione Microsoft Office Specialist&#58; Expert per più programmi di Office.
+
+  Per ottenere la certificazione Microsoft Office Specialist&#58; Expert, bisogna completare i seguenti requisiti&#58;
+
+  - Ottieni una certificazione Microsoft Office Specialist Associate superando tre dei seguenti esami Associate&#58;
+    - [MO-100&#58; Microsoft Word (Word and Word 2019)](/learn/certifications/exams/mo-100)
+    - [MO-200&#58; Microsoft Excel (Excel and Excel 2019)](/learn/certifications/exams/mo-200)
+    - [MO-300&#58; Microsoft PowerPoint (PowerPoint and PowerPoint 2019)](/learn/certifications/exams/mo-300)
+    - [MO-400&#58; Microsoft Outlook (Outlook and Outlook 2019)](/learn/certifications/exams/mo-400)
+
+  - Supera i seguenti tre esami Expert&#58;
+    - [MO-101&#58; Microsoft Word Expert (Word and Word 2019)](/learn/certifications/exams/mo-101)
+    - [MO-201&#58; Microsoft Excel Expert (Excel and Excel 2019)](/learn/certifications/exams/mo-201)
+    - [MO-500&#58; Microsoft Access Expert (Access and Access 2019)](/learn/certifications/exams/mo-500)
 subTitle: 'Dimostra di avere le competenze necessarie per sfruttare al meglio Office ottenendo una certificazione Microsoft Office Specialist: Expert per più programmi di Office.'
 levels:
-- intermediate
+- advanced
 skills:
-- Microsoft Word Expert (Word e Word 2019)
-- Microsoft Excel Expert (Excel ed Excel 2019)
-- Microsoft Access Expert (Access e Access 2019) (disponibile a breve)
+- Microsoft Word Expert (Word and Word 2019)
+- Microsoft Excel Expert (Excel and Excel 2019)
+- Microsoft Access Expert (Access and Access 2019)
 roles:
-- developer
+- business-user
 type: mos
 products:
 - office
@@ -26,16 +42,18 @@ prerequisites:
 exams:
 - uid: exam.mo-101
 - uid: exam.mo-201
+- uid: exam.mo-500
 resources:
 - title: Guida alla formazione e alle certificazioni Microsoft
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

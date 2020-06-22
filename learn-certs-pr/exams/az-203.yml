@@ -8,7 +8,7 @@ displayName: AZ-203
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href="/learn/certifications/exams/az-204">AZ-204</a>, È STATA RESA DISPONIBILE IL 24 FEBBRAIO. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il lunedì 31 agosto 2020 o intorno a tale data. Nota&#58; Gli esami vengono ritirati alle 23&#58;59 (CST).<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Questo esame sarà ritirato il 31 maggio 2020. Nota&#58; Gli esami vengono ritirati alle 23&#58;59 (CST).<br/><br/></div>
   </div>
 
   I candidati idonei a questo esame sono Azure Developer che progettano e creano soluzioni cloud come applicazioni e servizi. Partecipano a tutte le fasi dello sviluppo, dalla progettazione, lo sviluppo e la distribuzione della soluzione al testing e alla manutenzione. Per implementare la soluzione lavorano in collaborazione con i progettisti di soluzioni cloud, gli amministratori di database cloud (DBA), gli amministratori del cloud e i clienti.
@@ -33,7 +33,6 @@ providers:
 levels:
 - intermediate
 skills:
-- UNA NUOVA VERSIONE DI QUESTO ESAME, AZ-204, È STATA RESA DISPONIBILE IL 24 FEBBRAIO. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il lunedì 31 agosto 2020 o intorno a tale data. Scarica il documento delle competenze misurate qui sotto per avere informazioni dettagliate sulle modifiche.
 - Sviluppare un’infrastruttura Azure come soluzione di elaborazione dei servizi (10-15%)
 - Sviluppare una piattaforma Azure come soluzione di elaborazione dei servizi (20-25%)
 - Sviluppare l’archiviazione in Azure (15-20%)
@@ -55,6 +54,7 @@ products:
 - azure-functions
 - azure-logic-apps
 courses:
+- uid: course.az-020t00
 - uid: course.az-203t01
 - uid: course.az-203t02
 - uid: course.az-203t03
@@ -75,16 +75,13 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Developer Associate.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQqM
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -93,7 +90,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

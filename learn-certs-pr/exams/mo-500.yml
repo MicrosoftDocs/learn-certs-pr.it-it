@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft Access Expert (Access and Access 2019)
+metadata:
+  title: 'MO-500: Microsoft Access Expert (Access and Access 2019)'
+  description: 'MO-500: Microsoft Access Expert (Access and Access 2019)'
+uid: exam.mo-500
+displayName: MO-500
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  Questo esame riguarda la capacità di creare e gestire oggetti del database di Access incluse tabelle, relazioni, moduli di immissione dati, report multilivello e query multi-tabella. I candidati devono dimostrare la corretta applicazione delle principali funzionalità di Access e completare le attività in modo indipendente.
+subTitle: Questo esame misura la competenza nei principi di progettazione del database. L'esame riguarda la capacità di creare e gestire oggetti del database di Access incluse tabelle, relazioni, moduli di immissione dati, report multilivello e query multi-tabella.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4n2bY
+scheduleExamUrl: http://www.certiport.com/locator
+locales:
+- en
+levels:
+- advanced
+skills:
+- Gestire database (15-20%)
+- Creare e modificare tabelle (25-30%)
+- Creare e modificare query (25-30%)
+- Modificare i moduli nella vista layout (10-15%)
+- Modificare i report nella vista layout (10-15%)
+roles:
+- business-user
+products:
+- office
+- office-access
+relatedCertifications:
+- related:
+    uid: certification.mos-access-expert-2019
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi i criteri dell’esame e le domande frequenti.
+  href: ../certification-exam-policies.md
+

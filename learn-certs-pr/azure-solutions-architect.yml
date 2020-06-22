@@ -2,11 +2,20 @@
 title: 'Microsoft Certified: Azure Solutions Architect Expert'
 metadata:
   title: 'Microsoft Certified: Azure Solutions Architect Expert'
-  description: Gli architetti di soluzioni Microsoft Azure devono essere esperti in materia di elaborazione, rete, archiviazione e sicurezza in modo da poter progettare soluzioni da eseguire in Azure.
+  description: "L'Azure Solution Architects progetta e implementa soluzioni in esecuzione su Microsoft Azure, inclusi aspetti come elaborazione, rete, archiviazione e sicurezza."
 uid: certification.azure-solutions-architect
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
-summary: Gli architetti di soluzioni Microsoft Azure devono essere esperti in materia di elaborazione, rete, archiviazione e sicurezza in modo da poter progettare soluzioni da eseguire in Azure.
-subTitle: Gli architetti di soluzioni Microsoft Azure devono essere esperti in materia di elaborazione, rete, archiviazione e sicurezza in modo da poter progettare soluzioni da eseguire in Azure.
+summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  I candidati alla certificazione Azure Solutions Architect Expert dovrebbero avere competenze specifiche nella progettazione e nell'implementazione di soluzioni in esecuzione su Microsoft Azure, inclusi aspetti quali elaborazione, rete, archiviazione e sicurezza.
+
+  Le responsabilità di questo ruolo includono la consulenza alle parti interessate e la traduzione dei requisiti aziendali in soluzioni cloud sicure, scalabili e affidabili.
+
+  Un Azure Solutions Architect collabora con amministratori cloud, DBA cloud e clienti per implementare soluzioni.
+
+  Un candidato a questa certificazione dovrebbe avere esperienza e conoscenza avanzate in vari aspetti delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, gestione dei dati, budget e governance - questo ruolo dovrebbe gestire il modo in cui le decisioni in ogni area influiscano su una soluzione globale. Inoltre, per questo ruolo si dovrebbe essere competenti in almeno uno di questi domini di Azure&#58; amministrazione, sviluppo o DevOps.
+subTitle: L'Azure Solution Architects progetta e implementa soluzioni in esecuzione su Microsoft Azure, inclusi aspetti come elaborazione, rete, archiviazione e sicurezza.
 levels:
 - advanced
 skills:
@@ -71,21 +80,22 @@ exams:
 - uid: exam.az-300
 - uid: exam.az-301
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
+- title: Poster delle certificazioni di Azure
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
-  description: Consulta la panoramica delle certificazioni role-based, foundamentals and specialty
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

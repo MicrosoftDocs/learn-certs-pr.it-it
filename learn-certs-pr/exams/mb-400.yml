@@ -8,7 +8,7 @@ displayName: MB-400
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il il 22 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il venerdì 22 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
   </div>
 
   I candidati idonei a questo esame sono sviluppatori che usano le app basate sul modello di Microsoft Power Apps di Dynamics 365 per progettare, sviluppare, mettere in sicurezza ed estendere l’uso di un’implementazione di Dynamics 365. Implementano componenti di una soluzione che include migliorie per le applicazioni, esperienza utente personalizzata, integrazioni di sistemi, conversioni dei dati, automazione personalizzata dei processi e visualizzazioni personalizzate.
@@ -19,15 +19,15 @@ summary: |-
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: creare un progetto tecnico; configurare Common Data Service (CDS); creare e configurare Power Apps; configurare l’automazione dei processi aziendali; ampliare l’esperienza utente; estendere l’uso della piattaforma; e sviluppare integrazioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE42uM0
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power%20Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-400&examname=Exam%20MB-400:%20Microsoft%20Power Apps%20+%20Dynamics%20365%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-400
 locales:
 - en
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame sarà aggiornato il il 22 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
+- Il contenuto di questo esame è stato aggiornato il venerdì 22 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Creare un progetto tecnico (10-15%)
-- Configurare Common Data Service (CDS) (15-20%)
+- Configurare Common Data Service (15-20%)
 - Creare e configurare Power Apps (10-15%)
 - Configurare l’automazione dei processi aziendali (10-15%)
 - Estendere l'esperienza utente (15-20%)
@@ -57,10 +57,10 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -69,7 +69,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

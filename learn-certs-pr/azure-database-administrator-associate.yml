@@ -6,10 +6,10 @@ metadata:
 uid: certification.azure-database-administrator-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
   L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati nativa e ibrida cloud, basate su servizi dati Microsoft Azure e Microsoft SQL Server. L'Azure Database Administrator utilizza una varietà di metodi e strumenti per eseguire le operazioni quotidiane, compresa l'applicazione delle conoscenze sull'uso del T-SQL per la gestione amministrativa.
-subTitle: "L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati nativa e ibrida cloud, basate su servizi dati Microsoft Azure e Microsoft SQL Server."
+subTitle: L'Azure Database Administrator implementa e gestisce gli aspetti operativi delle soluzioni di piattaforma dati nativa e ibrida cloud, basate su servizi dati Microsoft Azure e Microsoft SQL Server.
 levels:
 - intermediate
 skills:
@@ -19,7 +19,7 @@ skills:
 - Ottimizzare le prestazioni della query
 - Eseguire l'automazione dei compiti
 - Pianificare e implementare un ambiente di Alta Disponibilità e Disaster Recovery (HADR)
-- Eseguire l'amministrazione utilizzando T-SQL
+- Eseguire l'amministrazione utilizzando T -SQL
 roles:
 - database-administrator
 type: role-based
@@ -36,13 +36,16 @@ pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4qjf
 exams:
 - uid: exam.dp-300
 resources:
+- title: Poster delle certificazioni di Azure
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni

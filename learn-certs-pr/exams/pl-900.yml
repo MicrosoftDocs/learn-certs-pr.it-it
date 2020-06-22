@@ -7,12 +7,10 @@ uid: exam.pl-900
 displayName: PL-900
 summary: |-
   <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il il 1 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il giovedì 7 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
   </div>
 
-  I candidati idonei a questo esame sono utenti che aspirano a migliorare la produttività automatizzando i processi aziendali, analizzando i dati per ottenere informazioni commerciali e lavorando in modo più efficiente grazie alla creazione di app semplici da usare.
-
-  Durante l’esame viene chiesto ai candidati di&#58; descrivere i componenti di Power Platform&#58; Power Apps, Power BI, Microsoft Automate, Common Data Service (CDS), i connettori e AI Builder; descrivere gli scenari tra i cloud realizzati con Microsoft 365, Dynamics 365, Microsoft Azure e servizi di terze parti; identificare i vantaggi e le funzionalità di Power Platform; identificare la funzionalità di base e il valore di business dei componenti di Power Platform; implementare soluzioni semplici con Microsoft Automate, Power BI e AI Builder; e creare un’app di base in un ambiente senza codice.
+  I candidati a questo esame sono gli utenti che aspirano a migliorare la produttività conoscendo le capacità della piattaforma Power, automatizzando i processi aziendali di base con Power Automate, eseguendo analisi dei dati di base con Power BI per approfondimenti aziendali, agendo in modo più efficace creando una semplice esperienza app canvas di Power Apps e creando potenti chatbot senza usare il codice.
 subTitle: Questo esame misura la tua capacità di comprendere il valore di business di Power Platform; la tua conoscenza dei componenti di base di Power Platform; la tua capacità di dimostrare il valore di business di Power BI e Microsoft Automate.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE43Nnn
@@ -27,12 +25,13 @@ providers:
 levels:
 - beginner
 skills:
-- Il contenuto di questo esame sarà aggiornato il il 1 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
-- Comprendere il valore di business di Power Platform (20-25%)
-- Conoscere i componenti di base di Power Platform (20-25%)
-- Dimostrare il valore di business di Power BI (15-20%)
-- Dimostrare il valore di business di Power Apps (20-25%)
-- Dimostrare il valore di business di Power Automate (15-20%)
+- Il contenuto di questo esame è stato aggiornato il giovedì 7 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Descrivere il valore aziendale di Power Platform (20-25%)
+- Identificare i componenti principali di Power Platform (15-20%)
+- Descrivere il valore aziendale di Power BI (10-15%)
+- Descrivere il valore aziendale di Power Apps (15-20%)
+- Descrivere il valore commerciale di Power Automate (15-20%)
+- Dimostrare il valore aziendale di Power Virtual Agents (10-15%)
 roles:
 - developer
 products:
@@ -51,10 +50,10 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -63,7 +62,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

@@ -2,14 +2,18 @@
 title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
 metadata:
   title: 'Microsoft Certified: Dynamics 365 Finance Functional Consultant Associate'
-  description: I consulenti funzionali di Finance di Dynamics 365 unificano i dati finanziari e le operazioni globali e automatizzano le attività e i flussi di lavoro, ottimizzano gli ordini dei clienti, le vendite, la fatturazione e la creazione di rapporti.
+  description: 'I consulenti funzionali di Finance di Dynamics 365 unificano i dati finanziari e le operazioni globali e automatizzano le attività e i flussi di lavoro, ottimizzano gli ordini dei clienti, le vendite, la fatturazione e la creazione di rapporti.'
 uid: certification.d365-functional-consultant-financials
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
-summary: I consulenti funzionali di Finance di Dynamics 365 unificano i dati finanziari e le operazioni globali e automatizzano le attività e i flussi di lavoro, ottimizzano gli ordini dei clienti, le vendite, la fatturazione e la creazione di rapporti.
-subTitle: I consulenti funzionali di Finance di Dynamics 365 unificano i dati finanziari e le operazioni globali e automatizzano le attività e i flussi di lavoro, ottimizzano gli ordini dei clienti, le vendite, la fatturazione e la creazione di rapporti.
+summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+ 
+  I consulenti funzionali di Finance di Dynamics 365 unificano i dati finanziari e le operazioni globali e automatizzano le attività e i flussi di lavoro, ottimizzano gli ordini dei clienti, le vendite, la fatturazione e la creazione di rapporti.
+subTitle: 'I consulenti funzionali di Finance di Dynamics 365 unificano i dati finanziari e le operazioni globali e automatizzano le attività e i flussi di lavoro, ottimizzano gli ordini dei clienti, le vendite, la fatturazione e la creazione di rapporti.'
 levels:
 - intermediate
 skills:
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Usare le funzionalità comuni e gli strumenti di implementazione
 - Configuare la sicurezza, i processi e le opzioni
 - Eseguire la migrazione dei dati
@@ -25,12 +29,8 @@ products:
 - dynamics
 - dynamics-finance
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
-- uid: course.mb-310t01
-- uid: course.mb-310t02
-- uid: course.mb-310t03
+- uid: course.mb-300t00
+- uid: course.mb-310t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -55,15 +55,16 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
-  description: Consulta la panoramica delle certificazioni role-based, foundamentals and specialty
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

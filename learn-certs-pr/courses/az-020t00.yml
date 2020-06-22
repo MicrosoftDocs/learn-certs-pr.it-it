@@ -1,0 +1,116 @@
+### YamlMime:Course
+title: Microsoft Azure solutions for AWS developers
+metadata:
+  title: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+  description: 'Course AZ-020T00-A: Microsoft Azure solutions for AWS developers'
+uid: course.az-020t00
+courseNumber: 'AZ-020T00-A'
+hoursToComplete: 72
+iconUrl: /media/learn/certification/course.svg
+learningPartnersLink: https://www.microsoft.com/learning/partners.aspx
+locales:
+- en
+levels:
+- intermediate
+roles:
+- developer
+products:
+- azure
+exams:
+- uid: exam.az-203
+- uid: exam.az-204
+summary: |-
+  Un corso di tre giorni progettato per insegnare agli sviluppatori AWS (Amazon Web Services) come preparare soluzioni end-to-end in Microsoft Azure. In questo corso costruirai soluzioni per app Web di Azure App Service e funzioni di Azure, utilizzerai l'archiviazione blob o Cosmos DB in soluzioni, implementerai soluzioni cloud sicure che includano autenticazione e autorizzazione degli utenti, implementerai la gestione API e svilupperai soluzioni basate su eventi e messaggi, e monitorerai, risolverai i problemi e ottimizzerai le tue soluzioni di Azure. Imparerai come gli sviluppatori usano i servizi di Azure, con particolare attenzione alle funzionalità e alle attività che differiscono da AWS e cosa significa per te quando sviluppi applicazioni che saranno ospitate usando i servizi di Azure.
+
+  #### Profilo dei destinatari
+  Gli studenti di questo corso sono sviluppatori AWS esperti interessati allo sviluppo di Azure.
+prerequisitesSection: |-
+  Gli studenti devono avere 1-2 anni di esperienza di sviluppo professionale e AWS. Devono essere in grado di programmare in un linguaggio supportato da Azure.
+outlineSection: |-
+  ### Modulo 1&#58; Creazione di Azure App Service Web Apps
+  Gli studenti impareranno a costruire un'applicazione web sulla piattaforma Azure App Service. Impareranno come funziona la piattaforma e come creare, configurare, scalare, proteggere e distribuire sulla piattaforma App Service.
+  #### Lezioni
+  - Concetti di base del Servizio app di Azure
+  - Creazione di un'app Web con il Azure App Service
+  - Configurazione e monitoraggio delle applicazioni App Service
+  - Scaling le app di App Service
+  - Ambienti di staging del Azure App Service
+
+
+  ### Modulo 2&#58; Implementare Funzioni di Azure
+  Questo modulo riguarda la creazione di app di funzioni e come integrare i trigger e gli ingressi/uscite nell'app.
+  #### Lezioni
+  - Panoramica di Funzioni di Azure
+  - Sviluppare le funzioni Azure
+  - Implementare funzioni durevoli
+
+
+  ### Modulo 3&#58; Sviluppare soluzioni che utilizzano la memorizzazione di blob
+  Gli studenti impareranno come funziona la memorizzazione di Azure Blob, come gestire i dati attraverso il ciclo di vita della memorizzazione blob hot/cold/archiviazione e come utilizzare la libreria dei client di storage Azure Blob per gestire dati e metadati. Inoltre, gli studenti impareranno come creare un modello ARM (Azure Resource Manager).
+  #### Lezioni
+  - Concetti di base dell’archiviazione BLOB di Azure
+  - Gestione del ciclo di vita della memorizzazione dati di Azure Blob
+  - Uso dell’archiviazione BLOB di Azure
+  - Creazione di modelli di Azure Resource Manager
+
+
+  ### Modulo 4&#58; Sviluppare soluzioni che utilizzano la memorizzazione dati Cosmos DB
+  Gli studenti impareranno come è strutturato Cosmos DB e come viene gestita la coerenza dei dati. Gli studenti impareranno anche a creare account Cosmos DB e a creare database, contenitori e oggetti utilizzando un mix tra il Azure Portal e il .NET SDK.
+  #### Lezioni
+  - Panoramica di Azure Cosmos DB
+  - Azure Cosmos DB data structure
+  - Lavorare con le risorse e i dati di Azure Cosmos DB
+  - Creare e distribuire modelli ARM
+
+
+  ### Modulo 5&#58; creare e distribuire modelli Azure Resource Manager (ARM)
+  Gli studenti impareranno come creare e distribuire modelli di Azure Resource Manager che possano essere usati per accelerare la nuova distribuzione e creare coerenza tra le risorse.
+  #### Lezioni
+  - Creare e distribuire modelli ARM
+
+
+  ### Modulo 6&#58; Implementare l'autenticazione e l'autorizzazione dell'utente
+  Gli studenti impareranno a sfruttare la Microsoft Identity Platform v2.0 per gestire l'autenticazione e l'accesso alle risorse. Gli studenti impareranno anche come utilizzare la Microsoft Authentication Library e Microsoft Graph per autenticare un utente e recuperare le informazioni memorizzate in Azure, nonché come e quando utilizzare le Firme ad accesso condiviso.
+  #### Lezioni
+  - Implementare la piattaforma di identità Microsoft
+  - Implementare la libreria di autenticazione Microsoft
+  - Proteggere i dati di configurazione delle app utilizzando Azure App Configuration
+
+
+  ### Modulo 7&#58; Implementare soluzioni cloud sicure
+  Questo modulo descrive come proteggere le informazioni (chiavi, segreti, certificati) che un'applicazione utilizza per accedere alle risorse. Copre anche la protezione delle informazioni di configurazione dell'applicazione.
+  #### Lezioni
+  - Gestire chiavi, segreti e certificati utilizzando l'API KeyVault
+  - Implementare le identità gestite per le risorse di Azure
+  - Proteggere i dati di configurazione delle app utilizzando Azure App Configuration
+
+
+  ### Modulo 8&#58; Implementare la gestione delle API
+  Gli studenti impareranno a pubblicare le API, a creare politiche per gestire le informazioni condivise attraverso le API e a gestire l'accesso alle proprie API utilizzando il servizio Azure API Management.
+  #### Lezioni
+  - Installare API Management
+  - Definire politiche per le API
+  - Proteggere le API
+
+
+  ### Modulo 9&#58; Sviluppare soluzioni basate sugli eventi
+  Gli studenti impareranno a costruire applicazioni con architetture basate su eventi.
+  #### Lezioni
+  - Implementare Azure Event Grid
+  - Implementare Azure Event Hub
+  - Implementare Azure Notification Hub
+
+
+  ### Modulo 10&#58; Sviluppare soluzioni basate sui messaggi
+  Gli studenti impareranno a costruire applicazioni con architetture basate su messaggi.
+  #### Lezioni
+  - Implementare soluzioni che utilizzino il bus di servizio di Azure
+  - Implementare soluzioni che utilizzino Archiviazione code di Azure
+
+
+  ### Modulo 11&#58; Monitorare e ottimizzare le soluzioni Azure
+  Questo modulo insegna agli studenti come strumentare il loro codice per la telemetria.
+  #### Lezioni
+  - Applicazioni di Azure Application Insights
+  - Strumentare un'applicazione per il monitoraggio
+

@@ -1,29 +1,29 @@
 ### YamlMime:Examination
 title: 'Access 2016: Core Database Management, Manipulation, and Query Skills'
 metadata:
-  title: 'Esame 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
-  description: 'Esame 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  title: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
+  description: 'Exam 77-730: Access 2016: Core Database Management, Manipulation, and Query Skills'
 uid: exam.77-730
 displayName: 77-730
-summary: >
-  I candidati ideali che sostengono l'esame per Access 2016 devono conoscere i concetti di base dell'ambiente dell'applicazione. Devono conoscere i principi di progettazione di un database di base ed essere in grado di completare le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le principali funzionalità di Access 2016 ed essere in grado di creare e gestire oggetti di un database Access di base, tra cui tabelle, relazioni, moduli di inserimento dati, rapporti a più livelli e query su più tabelle.
+summary: |+
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
 
+  I candidati ideali che sostengono l'esame per Access 2016 devono conoscere i concetti di base dell'ambiente dell'applicazione. Devono conoscere i principi basilari di progettazione di un database ed essere in grado di portare a termine le attività in modo indipendente. Inoltre, devono conoscere e dimostrare di sapere utilizzare correttamente le principali funzionalità di Access 2016, nonché dimostrare di essere in grado di creare e gestire oggetti basilari di un database Access, tra cui tabelle, relazioni, moduli di inserimento dati, report a più livelli e query su più tabelle.
 
-  Gli esami di certificazione come Specialista di Microsoft Office 2016 (MOS) introducono un nuovo formato basato sulle prestazioni per migliorare la valutazione delle conoscenze, capacità e abilità di un candidato relativamente all’utilizzo dei programmi MOS 2016&#58;
-
-  - Le istruzioni per l’Esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò ha lo scopo di stimolare i candidati a comprendere l'obiettivo e l'utilizzo comune della funzionalità del programma, consentendo loro di completare le attività di ciascun progetto.
-
-  - Il formato dell'Esame MOS 2016 comprende più progetti.
-subTitle: I candidati ideali che sostengono l'esame per Access 2016 devono conoscere i concetti di base dell'ambiente dell'applicazione. Devono conoscere i principi di progettazione di un database di base ed essere in grado di completare le attività in modo indipendente. Devono conoscere e dimostrare di sapere applicare correttamente le principali funzionalità di Access 2016 ed essere in grado di creare e gestire oggetti di un database Access di base, tra cui tabelle, relazioni, moduli di inserimento dati, rapporti a più livelli e query su più tabelle.
+  Negli esami di certificazione Microsoft Office Specialist (MOS) 2016 è stato introdotto un nuovo formato basato sulle prestazioni che permette di valutare meglio le conoscenze, le competenze e le capacità del candidato relativamente ai programmi MOS 2016&#58;
+  - le istruzioni per l’esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò significa che i candidati devono capire l'obiettivo e il normale utilizzo della funzionalità del programma per poter portare a termine le attività di ciascun progetto.
+  - Il formato dell'esame MOS 2016 include più progetti.
+subTitle: I candidati ideali che sostengono l'esame per Access 2016 devono conoscere i concetti di base dell'ambiente dell'applicazione. Devono conoscere i principi basilari di progettazione di un database ed essere in grado di portare a termine le attività in modo indipendente. Inoltre, devono conoscere e dimostrare di sapere utilizzare correttamente le principali funzionalità di Access 2016, nonché dimostrare di essere in grado di creare e gestire oggetti basilari di un database Access, tra cui tabelle, relazioni, moduli di inserimento dati, report a più livelli e query su più tabelle.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y5Ax
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
 - zh-cn
 - zh-tw
+- nl
 - es
 - fr
 - ja
@@ -32,6 +32,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Creare e gestire un database (20-25%)
 - Creare tabelle (25-30%)
 - Creare query (20-25%)
@@ -49,11 +50,12 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

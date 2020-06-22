@@ -1,44 +1,47 @@
 ### YamlMime:Examination
 title: Deploying Microsoft 365 Teamwork
 metadata:
-  title: 'Esame MS-300: Deploying Microsoft 365 Teamwork'
-  description: 'Esame MS-300: Deploying Microsoft 365 Teamwork'
+  title: 'Exam MS-300: Deploying Microsoft 365 Teamwork'
+  description: 'Exam MS-300: Deploying Microsoft 365 Teamwork'
 uid: exam.ms-300
 displayName: MS-300
-summary: >-
-  I candidati idonei a questo esame sono amministratori di Teamwork che si occupano della configurazione, distribuzione e gestione di carichi di lavoro di Office 365 e Azure, il cui obiettivo è assicurare una collaborazione e un’adozione efficiente ed efficace dei carichi di lavoro. Gli amministratori di Teamwork gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. Devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e Teams.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>QUESTO ESAME È STATO RITIRATO IL 31 AGOSTO 2020. Nota&#58; Gli esami vengono ritirati alle 23&#58;59 (CST).<br/></div>
+  </div>
 
+  I candidati a questo esame sono amministratori di Teamwor responsabili della configurazione, distribuzione e la gestione di carichi di lavoro di Office 365 e Azure, il cui obiettivo è assicurare una collaborazione e un’adozione efficiente ed efficace dei carichi di lavoro. Gli amministratori di Teamwork gestiscono le app e i servizi e supportano l’infrastruttura per soddisfare i requisiti aziendali. Devono essere in grado di distribuire, gestire, eseguire la migrazione e proteggere SharePoint (in versione online, locale e ibrida), OneDrive e Teams.
   <br/>
-
 
   Gli amministratori sono inoltre coinvolti nelle decisioni relative alla governance e lavorano a stretto contatto con altri amministratori per implementare molte delle decisioni prese dalle autorità responsabili della governance. Gli amministratori di Teamwork lavorano a stretto contatto con l’amministratore della messaggistica alla configurazione delle opzioni e delle attività e-mail correlate alla sicurezza, con l’amministratore dei servizi vocali per integrare le funzionalità voce nelle organizzazioni e con l’amministratore della sicurezza per garantire la sicurezza end-to-end.
 
-
-  Hanno una conoscenza di base dei punti di integrazione con le app e i servizi seguenti; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business. I candidati devono conoscere i concetti della gestione di SQL Server, Azure Active Directory, PowerShell, le reti, l’amministrazione dei server Windows, Domain Name System (DNS), la gestione dei dispositivi mobili Active Directory e altri sistemi operativi.
+  Hanno una conoscenza di base dei punti di integrazione con le app e i servizi seguenti&#58; Office, Power Apps, Flow, Yammer, Microsoft Graph, Stream, Planner e Project. L’amministratore deve sapere come integrare app e servizi di terze parti, tra cui applicazioni line-of-business. I candidati devono conoscere i concetti della gestione di SQL Server, Azure Active Directory, PowerShell, le reti, l’amministrazione dei server Windows, Domain Name System (DNS), la gestione dei dispositivi mobili Active Directory e altri sistemi operativi.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: configurare e gestire SharePoint Online; configurare e gestire OneDrive for Business; configurare e gestire Teams; e configurare e gestire le integrazione dei carichi di lavoro.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI2
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-300&examname=Exam%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-300
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-300&examname=Esame%20MS-300:%20Deploying%20Microsoft%20365%20Teamwork&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-300
 levels:
 - intermediate
 skills:
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Configurare e gestire SharePoint Online (35-40%)
 - Configurare e gestire OneDrive for Business (25-30%)
 - Configurare e gestire Teams (20-25%)
 - Configurare e gestire le integrazioni dei carichi di lavoro (15-20%)
 roles:
 - administrator
-exams:
-- uid: exam.ms-301
 products:
 - m365
 - office-sp
 - office-onedrive
 - office-teams
 - office-yammer
+exams:
+- uid: exam.ms-301
 courses:
 - uid: course.ms-300t01
 - uid: course.ms-300t02
@@ -54,18 +57,22 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

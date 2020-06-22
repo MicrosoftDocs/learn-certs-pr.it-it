@@ -6,24 +6,33 @@ metadata:
 uid: exam.az-220
 displayName: AZ-220
 summary: |-
+  <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 28 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  </div>
 
-  Azure IoT Developer è responsabile dell'implementazione e del codice necessari per creare e mantenere la parte cloud ed edge di una soluzione IoT. Oltre a configurare e mantenere i dispositivi utilizzando i servizi cloud, lo sviluppatore IoT imposta anche i dispositivi fisici. Lo sviluppatore IoT è responsabile della manutenzione dei dispositivi durante tutto il ciclo di vita.
+  I candidati a questo esame dovrebbero avere esperienza in materia di sviluppo di componenti cloud ed edge di una soluzione IoT di Azure.
 
-  L'IoT Developer implementa i progetti per le soluzioni IoT, tra cui la topologia dei dispositivi, la connettività, il debug e la sicurezza. Lo sviluppatore IoT distribuisce i computer/contenitori e configura la rete dei dispositivi. L'IoT Developer implementa progetti per soluzioni per la gestione di pipeline di dati, incluso il monitoraggio e la trasformazione dei dati in relazione all'IoT. L'IoT Developer lavora con tecnici dei dati e altre parti interessate per garantire un'integrazione aziendale di successo.
+  Le responsabilità di un Azure IoT Developer includono la gestione del ciclo di vita del dispositivo - installazione, configurazione e manutenzione - usando servizi cloud e altri strumenti. Implementate progetti per soluzioni IoT di Azure tra cui topologia, connettività, debug e sicurezza dei dispositivi, nonché soluzioni per gestire, monitorare e trasformare pipeline di dati relative a IoT. Distribuisci anche componenti di Azure IoT Edge e configuri la rete dei dispositivi in periferia.
 
-  Gli sviluppatori IoT devono avere una buona comprensione di come implementare i servizi Azure che formano una soluzione IoT, incluse le opzioni di memorizzazione dei dati, l'analisi dei dati, l'elaborazione dei dati e le opzioni di piattaforma come servizio. Gli sviluppatori IoT devono essere in grado di riconoscere le impostazioni di configurazione del servizio Azure IoT all'interno della porzione di codice di una soluzione IoT ed eseguire specifiche attività di scrittura di codice IoT in almeno un linguaggio supportato da Azure, tra cui C#, Node, C o Python.
+  Azure IoT Developer lavora con tecnici dei dati e altre parti interessate per garantire un'integrazione aziendale di successo.
+
+  Un candidato a questo esame dovrebbe avere esperienza nell'implementazione dei servizi di Azure che formino una soluzione IoT, comprese le opzioni di archiviazione dei dati, analisi dei dati, elaborazione dei dati e opzioni platform-as-a-service. Questo ruolo dovrebbe anche essere in grado di riconoscere le impostazioni di configurazione del servizio IoT di Azure all'interno della parte di codice di una soluzione IoT ed eseguire specifiche attività di codifica IoT in almeno una linguaggio supportato da Azure, inclusi C#, Node, C o Python.
 subTitle: "Questo esame misura la tua capacità di implementare l'infrastruttura della soluzione IoT; effettuare il provisioning dei dispositivi e gestirli; implementare soluzioni su dispositivi Azure IoT Edge; elaborare e gestire i dati; monitorare, risolvere i problemi e ottimizzare le soluzioni IoT; e implementare la sicurezza."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4nBeC
 scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-220&examname=Exam%20AZ-220:%20Microsoft%20Azure%20IoT%20Developer&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-220
 locales:
 - en
+- ja
+- zh-cn
+- ko
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame è stato aggiornato il 28 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Implementare l'infrastruttura della soluzione IoT (15-20%)
-- Fornire e gestire i dispositivi (20-25%)
+- Fornire e gestire i dispositivi (20 -25%)
 - Implementare Edge (15-20%)
 - Elaborare e gestire i dati (15-20%)
 - Monitorare, risolvere i problemi e ottimizzare le soluzioni IoT (15-20%)
@@ -45,13 +54,16 @@ relatedCertifications:
 - related:
     uid: certification.azure-iot-developer-specialty
 resources:
+- title: Viaggio verso la certificazione
+  description: Analizza i passaggi per ottenere la certificazione Azure IoT Developer Specialty e le risorse disponibili per aiutarti nella preparazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqz
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -60,7 +72,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

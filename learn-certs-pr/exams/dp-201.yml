@@ -5,7 +5,14 @@ metadata:
   description: 'Exam DP-201: Designing an Azure Data Solution'
 uid: exam.dp-201
 displayName: DP-201
-summary: "<div>\r\n<div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>  \r\n<div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il 26 marzo 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>\r\n</div>\r\n\r\nI candidati idonei a questo esame sono Microsoft Azure Data Engineer che collaborano con le parti interessate per identificare e soddisfare i requisiti dei dati per progettare soluzioni di dati che usano i servizi di dati di Azure.\r\n\r\nI Microsoft Azure Data Engineer sono responsabili di attività di progettazione correlate ai dati che includono la progettazione di soluzioni di archiviazione dati di Azure che usino archivi dati relazionali e non relazionali, l’elaborazione in batch e in tempo reale dei dati, e soluzioni di sicurezza e conformità dei dati.\r\n\r\nI candidati a questo esame devono progettare soluzioni di dati che utilizzano i seguenti servizi Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks e Azure Blob Storage."
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>  
+    
+  I candidati idonei a questo esame sono Microsoft Azure Data Engineer che collaborano con le parti interessate per identificare e soddisfare i requisiti dei dati per progettare soluzioni di dati che usano i servizi di dati di Azure.
+
+  I Microsoft Azure Data Engineer sono responsabili di attività di progettazione correlate ai dati che includono la progettazione di soluzioni di archiviazione dati di Azure che usino archivi dati relazionali e non relazionali, l’elaborazione in batch e in tempo reale dei dati, e soluzioni di sicurezza e conformità dei dati.
+
+  I candidati a questo esame devono progettare soluzioni di dati che utilizzano i seguenti servizi Azure&#58; Azure Cosmos DB, Azure SQL Database, Azure Synapse Analytics, Azure Data Lake Storage, Azure Data Factory, Azure Stream Analytics, Azure Databricks e Azure Blob Storage.
 subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: progettare soluzioni per l'archiviazione dati Azure; progettare soluzioni di elaborazione dei dati; progettare la sicurezza e conformità dei dati."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VRMb
@@ -19,7 +26,6 @@ locales:
 levels:
 - intermediate
 skills:
-- Il contenuto di questo esame è stato aggiornato il 26 marzo 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.
 - 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Progettare soluzioni per l’archiviazione dati Azure (40-45%)
 - Progettare soluzioni di elaborazione dati (25-30%)
@@ -57,10 +63,10 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -69,7 +75,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

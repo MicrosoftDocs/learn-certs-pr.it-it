@@ -160,7 +160,6 @@ Per mantenere l'integrità degli esami supervisionati in un'impostazione online/
 ### Impostazioni ufficio o casa
 
 L'impostazione per ufficio o casa deve soddisfare i seguenti requisiti:
-
 - L'ufficio o la sala conferenze devono avere pareti, una porta chiusa ed essere liberi da interruzioni.
 - Se l'esame è a casa tua, la stanza deve essere libera da interruzioni.
 - Nessun altro può essere presente o entrare nella stanza durante la sessione di test.
@@ -241,7 +240,7 @@ Il processo di inizio e check-in deve durare circa 15 minuti.
 
 Per iniziare la sessione di testing ed entrare in contatto con un presentatore:
 
-- Accedi a [dashboard per i vantaggi e gli esami](https://www.microsoft.com/learning/dashboard.aspx).
+- Accedere a [your certification dashboard](https://www.microsoft.com/learning/dashboard.aspx).
 - Nella sezione **Appuntamenti** sulla destra, seleziona **Avvia un esame certificato on-line precedentemente programmato**.
 - Viene visualizzato l'esame programmato. Seleziona il link dell'esame, quindi seleziona **Inizia l'esame**.
 
@@ -261,10 +260,10 @@ Se a seguito dell'esame si verifica un problema tecnico, puoi contattare Pearson
 
 ### Recupera il report sul punteggio e rimuovi il software del supervisore
 
-È possibile accedere ai report sui punteggi da [dashboard dei vantaggi e degli esami](https://www.microsoft.com/learning/dashboard.aspx).
+È possibile accedere ai report dei punteggi da [your certification dashboard](https://www.microsoft.com/learning/dashboard.aspx).
 
-- Accedi a [dashboard per i vantaggi e gli esami](https://www.microsoft.com/learning/dashboard.aspx).
-- Per visualizzare la cronologia dei test, vai a [dashboard dei vantaggi e degli esami](https://www.microsoft.com/learning/dashboard.aspx) e seleziona **Visualizza il mio report sul punteggio**. Da qui è possibile salvare e stampare il report del punteggio.
+- Accedere a [your certification dashboard](https://www.microsoft.com/learning/dashboard.aspx).
+- Seleziona **Visualizza il mio rapporto sul punteggio**. Da qui è possibile salvare e stampare il report del punteggio.
 - I risultati del tuo esame (superato o meno) verranno inoltrati a Microsoft per l'elaborazione.
 - Al termine dell'esame è necessario rimuovere tutti i file eseguibili e accessori, inclusa l'icona **Pearson VUE Secure Browser**. Per rimuovere l'icona dal desktop, fai clic con il pulsante destro del mouse sull'icona, selezionare **Elimina**, quindi selezionare **Sì**.
 - **[Disinstalla il file eseguibile per Pearson VUE Secure Browser](https://windows.microsoft.com/en-us/windows7/uninstall-or-change-a-program)**.
@@ -274,59 +273,45 @@ Se a seguito dell'esame si verifica un problema tecnico, puoi contattare Pearson
 Trova le risposte alle domande frequenti sugli esami supervisionati online.
 
 ### Come faccio a sapere se un esame on-line è adatto a me?
-
 Inizia assicurandoti che il tuo computer soddisfi i nostri requisiti completando il [test di sistema](https://service.proctorcam.com/system_test?customer=pearson_vue&clientcode=MICROSOFT) richiesto. Leggi cosa aspettarsi dal protocollo della sessione di test, fornito precedentemente in questa pagina. In caso di dubbi o riserve, ti consigliamo di pianificare il tuo esame presso un centro di testing.
 
 ### Posso ancora sostenere il mio esame on-line se il mio sistema non supera il test di sistema?
-
 No. Non devi registrarti ad un esame online se il tuo sistema non supera il test di sistema, né pianificare un esame online se non si è in grado di scattare una foto chiara del proprio documento d'identità.
 
 ### Come posso registrarmi per un esame on-line?
-
 - Per registrarti, seleziona l'esame che desideri sostenere dall' [elenco degli esami](/learn/certifications/browse/), quindi seleziona il pulsante **Pianifica esame**. Se nel tuo paese sono disponibili gli esami online, potrai selezionare tale opzione durante il processo di registrazione all'esame.
 
 ### Potrebbe sembrare che sia molto più facile imbrogliare se non sono in un centro di test. Gli esami online sono sicuri?
-
 Facciamo del nostro meglio per proteggere l'integrità dei nostri esami, a prescindere da dove vengono sostenuti. Quando si sostiene un esame online, è necessario prima installare un browser sicuro che applica misure di sicurezza molto rigorose durante l'intero processo di testing. Inoltre, un supervisore di Pearson VUE ti monitora durante l'esame tramite una webcam e un microfono. Inoltre visioniamo anche il filmato registrato delle sessioni di esame nel caso in cui sospettiamo si sia verificata un'irregolarità. Siamo piuttosto esperti nel rilevamento di irregolarità, quindi ti consigliamo di rispettare i regolamenti. Per chi commette irregolarità è previsto l'annullamento della certificazione, la rimozione delle certificazioni già conseguite e il divieto a sostenere altri esami in futuro.
 
 ### Se sto sostenendo più esami per una certificazione, devo scegliere un solo metodo di effettuazione dell'esame?
-
 No, è possibile sostenere gli esami in modi diversi l'uno dall'altro (online o di persona in centro di testing).
 
 ### Dopo che il mio esame è stato avviato e mi è stato assegnato un supervisore, in quanto tempo devo completare l'esame?
-
 Il tempo a disposizione per completare l'esame è lo stesso disponibile presso i centri di testing Pearson VUE.
 
 ### Gli esami on-line sono più difficili degli esami sostenuti nei centri di test?
-
 No. Gli esami sono equivalenti in termini di difficoltà.
 
 ### Posso prendere appunti durante il mio esame on-line?
-
 Sì, utilizzando la funzione lavagna che fa parte dell'esame online (non è possibile utilizzare una lavagna esterna). La funzione lavagna fornisce l'opzione di inserire note o disegnare forme. Puoi accedere alla lavagna durante l'esame facendo clic sull'icona della gomma nella parte superiore dello schermo.
 
 ### Gli esami on-line sono disponibili in più lingue?
-
 Sì. Se gli esami online sono disponibili nel tuo Paese, sono disponibili nelle stesse lingue disponibili nei centri di test del tuo Paese. Tieni presente che il supporto di benvenuto, il supporto per il supervisore e il software di supervisione sono disponibili in un numero limitato di lingue. Selezionerai questa lingua durante il processo di registrazione all'esame; potrebbe essere diversa dalla lingua sosterrai l'esame. La maggior parte dei candidati avrà la possibilità di sostenere un esame online soltanto con supporto di benvenuto, supporto per supervisore e software di supervisione in lingua inglese, indipendentemente dalla lingua dell'esame.
 
 ### A chi devo rivolgermi se ho problemi tecnici prima, durante o dopo l'esame on-line?
-
 Per domande sulla registrazione, utilizza i collegamenti al servizio clienti di Pearson VUE forniti durante la registrazione. Se si verifica un problema tecnico durante l'esame, il supervisore ti aiuterà a risolverlo. Se necessario, il supervisore fornirà un numero di report dell'evento imprevisto a cui fare riferimento quando si contatta il [Supporto clienti Pearson VUE](https://www.pearsonvue.com/microsoft/contact).
 
 ### Quale tipo di identificazione è richiesta durante il processo di check-in?
-
 Si prega di rivedere l'attuale [politica ID](https://home.pearsonvue.com/Policies/1S/English). Se stai effettuando l'aggiornamento o il rinnovo dei tuoi documenti di riconoscimento, tieni presente che per gli esami online non sono accettate modifiche alla ragione sociale, tra cui i moduli di rinnovo.
 
 ### Come faccio a cambiare il mio nome?
-
 Il nome deve corrispondere esattamente al documento di riconoscimento fornito durante il processo di check-in. Dopo aver salvato il profilo di registrazione dell'esame, puoi modificare il tuo nome legale solo richiedendo aiuto attraverso i nostri forum di supporto per la certificazione.
 
 ### Ho un appuntamento per un esame on-line. Come faccio ad avviarlo?
-
 Hai a disposizione fino a 15 minuti dopo l'orario pianificato. Tuttavia, dopo di ciò, non ti è permesso iniziare la procedura di esame.
 
-Per iniziare l'esame, accedi alla tua [dashboard vantaggi ed esami](https://www.microsoft.com/learning/dashboard.aspx) e fai clic su **Avvia un esame certificato on-line precedentemente programmato**. Verrai indirizzato a una pagina di Pearson VUE in cui vedrai l'esame pianificato e potrai iniziarlo.
+Per iniziare l'esame, accedi a [your certification dashboard](https://www.microsoft.com/learning/dashboard.aspx) e fai clic su **Avvia un esame online supervisionato precedentemente programmato**. Verrai indirizzato a una pagina di Pearson VUE in cui vedrai l'esame pianificato e potrai iniziarlo.
 
 ### Dove posso trovare un elenco delle politiche per gli esami?
-
 Fai riferimento alle [politiche e domande frequenti sugli esami](/learn/certifications/certification-exam-policies) che si applicano a tutti gli esami di certificazione Microsoft.

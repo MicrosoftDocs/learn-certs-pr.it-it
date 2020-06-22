@@ -1,30 +1,33 @@
 ### YamlMime:Examination
 title: Microsoft Power Platform + Dynamics 365 Core
 metadata:
-  title: 'Esame MB-200: Microsoft Power Platform + Dynamics 365 Core'
-  description: 'Esame MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  title: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
+  description: 'MB-200: Microsoft Power Platform + Dynamics 365 Core'
 uid: exam.mb-200
 displayName: MB-200
-summary: >-
-  I candidati idonei a questo esame sono consulenti funzionali che hanno accesso alle funzioni e funzionalità del prodotto con licenza enterprise. In qualità di consulenti funzionali, i candidati sono a conoscenza delle versioni bundle delle funzionalità, ma solitamente non lavorano con questi prodotti in bundle.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il venerdì 1 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  </div>
 
-  <br/>
+  I candidati a questo esame sono consulenti funzionali che hanno accesso alle caratteristiche e alle funzionalità del prodotto con licenza aziendale. In qualità di consulenti funzionali, i candidati sono a conoscenza delle versioni bundle delle funzionalità, ma solitamente non lavorano con questi prodotti in bundle.
 
+  I candidati sono principalmente responsabili della configurazione del sistema in base alle esigenze dei clienti, l'esecuzione di attività di progettazione relative all'implementazione di nuove caratteristiche e funzionalità, e dell'implementazione e della verifica delle modifiche del sistema.
 
-  I candidati si occupano principalmente di configurare il sistema in base alle esigenze dei clienti, eseguire le attività di progettazione relative all'implementazione di nuove funzioni e funzionalità, e implementare e testare le modifiche del sistema.
-
-
-  Pianificano la progettazione funzionale delle soluzioni, implementano un processo ALM (Application Lifecycle Management), migrano dati e oggetti da sistemi legacy ed esterni, integrano Power Platform con altri sistemi e gestiscono l'ambiente Power Platform.
+  I candidati pianificano la progettazione funzionale delle soluzioni, implementano un processo ALM (Application Lifecycle Management), migrano dati e oggetti da sistemi legacy ed esterni, integrano Power Platform con altri sistemi e gestiscono l'ambiente Power Platform.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire operazioni di rilevamento, pianificazione ed analisi; gestire la progettazione dell’esperienza utente; gestire entità e dati; implementare la sicurezza; implementare l’integrazione; ed eseguire la distribuzione e il testing di soluzioni.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxb
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-200?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-200&examname=Exam%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-200&examname=Esame%20MB-200:%20Microsoft%20Dynamics%20365%20Customer%20Engagement%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-200
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame è stato aggiornato il venerdì 1 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Eseguire operazioni di rilevamento, pianificazione e analisi (5-10%)
 - Gestire la progettazione dell'esperienza utente (20-25%)
 - Gestire entità e dati (15-20%)
@@ -33,22 +36,19 @@ skills:
 - Eseguire la distribuzione e il testing di soluzioni (25-30%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-210
-- uid: exam.mb-220
-- uid: exam.mb-230
-- uid: exam.mb-240
 products:
 - dynamics
 - dynamics-sales
 - dynamics-marketing
 - dynamics-field-service
 - dynamics-customer-service
+exams:
+- uid: exam.mb-210
+- uid: exam.mb-220
+- uid: exam.mb-230
+- uid: exam.mb-240
 courses:
-- uid: course.mb-200t01
-- uid: course.mb-200t02
-- uid: course.mb-200t03
-- uid: course.mb-200t04
+- uid: course.mb-200t00
 paths:
 - uid: learn-bizapps.create-powerapps
 - uid: learn-bizapps.create-app-models-business-processes
@@ -66,18 +66,22 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

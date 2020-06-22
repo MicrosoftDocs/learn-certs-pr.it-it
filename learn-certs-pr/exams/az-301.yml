@@ -8,11 +8,11 @@ displayName: AZ-301
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href="/learn/certifications/exams/az-304">AZ-304</a>, SARÀ DISPONIBILE IL LUNEDÌ 29 GIUGNO 2020 O INTORNO A TALE DATA. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il 30 settembre 2020 o intorno a tale data. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>UNA NUOVA VERSIONE DI QUESTO ESAME, <a href="/learn/certifications/exams/az-304">AZ-304</a>, SARÀ DISPONIBILE IL LUNEDÌ 29 GIUGNO 2020 O INTORNO A TALE DATA. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il mercoledì 30 settembre 2020 o intorno a tale data. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
   </div>
 
-  I candidati a questo esame sono progettisti di soluzioni Azure che fungono da consulenti alle parti interessate e che trasformano i requisiti di business in soluzioni sicure, scalabili e affidabili. I candidati devono possedere una vasta esperienza e conoscenza di vari aspetti delle operazioni IT, tra cui reti, virtualizzazione, identità, sicurezza, business continuity, disaster recovery, gestione dei dati, pianificazione del budget e governance. Le persone in questo ruolo hanno il compito di determinare l’impatto delle decisioni di ciascuna area sulla soluzione globale. I candidati devono essere esperti nell'amministrazione di Azure, nello sviluppo di Azure e in DevOps, nonché avere competenze a livello di esperti in almeno uno di questi campi.
-subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: determinare i carichi di lavoro; progettare l’identità e la sicurezza; progettare una soluzione per la piattaforma dati; progettare una strategia di business continuity; progettare l''installazione, la migrazione e l’integrazione; e progettare una strategia per l’infrastruttura.'
+  I candidati a questo esame sono progettisti di soluzioni Azure che fungono da consulenti alle parti interessate e che trasformano i requisiti di business in soluzioni sicure, scalabili e affidabili. I candidati devono possedere una vasta esperienza e conoscenza di vari aspetti delle operazioni IT, tra cui reti, virtualizzazione, identità, sicurezza, business continuity, ripristino di emergenza, gestione dei dati, pianificazione del budget e governance. Le persone che lavorano in questo ruolo hanno il compito di determinare l’impatto delle decisioni di ciascuna area sulla soluzione globale. I candidati devono essere esperti nell'amministrazione di Azure, nello sviluppo di Azure e in DevOps, nonché avere competenze a livello di esperti in almeno uno di questi domini.
+subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: determinare i carichi di lavoro; progettare l’identità e la sicurezza; progettare una soluzione per la piattaforma dati; progettare una strategia di business continuity; progettare l'installazione, la migrazione e l’integrazione; e progettare una strategia per l’infrastruttura."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEHD
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-301?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
@@ -25,7 +25,7 @@ locales:
 levels:
 - advanced
 skills:
-- UNA NUOVA VERSIONE DI QUESTO ESAME, AZ-304, SARÀ DISPONIBILE IL lunedì 29 giugno 2020 O INTORNO A TALE DATA. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il 30 settembre 2020 o intorno a tale data. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
+- UNA NUOVA VERSIONE DI QUESTO ESAME, AZ-304, SARÀ DISPONIBILE IL lunedì 29 giugno 2020 O INTORNO A TALE DATA. Sarai in grado di sostenere questo esame fino a quando non sarà ritirato il mercoledì 30 settembre 2020 o intorno a tale data. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.
 - Determinare i requisiti per i carichi di lavoro (10-15%)
 - Progettare identità e sicurezza (20-25%)
 - Progettare una soluzione per la piattaforma dati (15-20%)
@@ -78,16 +78,13 @@ relatedCertifications:
 - related:
     uid: certification.azure-solutions-architect
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -96,7 +93,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

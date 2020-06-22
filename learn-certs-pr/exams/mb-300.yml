@@ -5,44 +5,43 @@ metadata:
   description: 'MB-300: Microsoft Dynamics 365: Core Finance and Operations'
 uid: exam.mb-300
 displayName: MB-300
-summary: >-
-  I candidati idonei a questo esame sono consulenti funzionali che analizzano i requisiti aziendali e li convertono in processi e soluzioni aziendali pienamente realizzati che implementino le migliori prassi del settore. Hanno un ruolo chiave nell’implementazione e nella configurazione di applicazioni in grado di soddisfare i requisiti aziendali.
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
 
+  I candidati idonei a questo esame sono consulenti funzionali che analizzano i requisiti aziendali e li convertono in processi e soluzioni aziendali pienamente realizzati che implementino le migliori prassi del settore. Hanno un ruolo chiave nell’implementazione e nella configurazione di applicazioni in grado di soddisfare i requisiti aziendali.
   <br/>
 
-
-  I candidati idonei a questo esame hanno una comprensione di base dei principi contabili e delle operazioni finanziarie a livello aziendale, dell’assistenza clienti, dell’assistenza sul campo e conoscono i principi di gestione della catena di produzione, vendita al dettaglio e fornitura.
-
+  Hanno una comprensione di base dei principi contabili e delle operazioni finanziarie dell’azienda, dell’assistenza clienti, dell’assistenza sul campo e conoscono i principi di gestione della catena di produzione, vendita al dettaglio e pernitura.
 
   In genere, hanno esperienza nell’uso di uno o più set di funzionalità di Microsoft Dynamics 365 Finance e Operations, compresa la gestione delle finanze, della produzione e della catena di fornitura.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: usare le funzionalità e gli strumenti di implementazione comuni; configurare la sicurezza, i processi e le opzioni; eseguire la migrazione dei dati; convalidare e fornire assistenza per la soluzione.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8B
+practiceTestUrl: https://www.mindhub.com/p/MU-MB-300?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-300&examname=Exam%20MB-300:%20Microsoft%20Dynamics%20365:%20Core Finance%20and%20Operations&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-300&examname=Esame%20MB-300:%20Microsoft%20Dynamics%20365%20Unified%20Operations%20Core&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-300
 levels:
 - intermediate
 skills:
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Usare le funzionalità comuni e gli strumenti di implementazione (20-25%)
 - Configurare la sicurezza, i processi e le opzioni (45-50%)
 - Eseguire la migrazione dei dati (15-20%)
 - Convalidare e supportare la soluzione (15-20%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-310
-- uid: exam.mb-320
-- uid: exam.mb-330
 products:
 - dynamics
 - dynamics-finance-operations
 - dynamics-finance
+exams:
+- uid: exam.mb-310
+- uid: exam.mb-320
+- uid: exam.mb-330
 courses:
-- uid: course.mb-300t01
-- uid: course.mb-300t02
-- uid: course.mb-300t03
+- uid: course.mb-300t00
 paths:
 - uid: learn-dynamics.get-started-with-dynamics-365-for-finance-and-operations
 - uid: learn-dynamics.use-lcs-to-design-and-plan-an-implementation-of-f-and-o
@@ -58,18 +57,22 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

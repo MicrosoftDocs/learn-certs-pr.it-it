@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Outlook 2010
+metadata:
+  title: 'Exam 77-884: Outlook 2010'
+  description: 'Exam 77-884: Outlook 2010'
+uid: exam.77-884
+displayName: 77-884
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  I candidati sono in grado di formattare i contenuti dei messaggi di posta elettronica formattando caratteri e paragrafi, nonché di creare o inserire elementi grafici nei messaggi, come grafici, tabelle ed elementi grafici SmartArt. Sono inoltre in grado di inviare messaggi a destinatari privati utilizzando il campo Ccn. I candidati devono essere in grado di creare record contatti, attività e appuntamenti a partire dai messaggi in arrivo, nonché di configurare gruppi di contatti per facilitare la comunicazione con altri utenti di Outlook. Possono inoltre condividere le informazioni di pianificazione con altri utenti di Outlook. I candidati pianificano inoltre le riunioni coinvolgendo persone e risorse di sistema e delegano attività a terzi. Gli utenti principali personalizzano la finestra del programma Outlook e la barra di accesso rapido per ottenere la massima efficienza. Organizzano i messaggi e gli altri elementi di Outlook e visualizzano viste diverse delle cartelle di posta, del calendario, della rubrica e dell’elenco attività. Possono anche visualizzare diversi calendari e condividere i calendari con altri utenti di Outlook.
+subTitle: I candidati sono in grado di formattare i contenuti dei messaggi di posta elettronica formattando caratteri e paragrafi, nonché di creare o inserire elementi grafici nei messaggi, come grafici, tabelle ed elementi grafici SmartArt. Sono inoltre in grado di inviare messaggi a destinatari privati utilizzando il campo Ccn. I candidati devono essere in grado di creare record contatti, attività e appuntamenti a partire dai messaggi in arrivo, nonché di configurare gruppi di contatti per facilitare la comunicazione con altri utenti di Outlook. Possono inoltre condividere le informazioni di pianificazione con altri utenti di Outlook. I candidati pianificano inoltre le riunioni coinvolgendo persone e risorse di sistema e delegano attività a terzi. Gli utenti principali personalizzano la finestra del programma Outlook e la barra di accesso rapido per ottenere la massima efficienza. Organizzano i messaggi e gli altri elementi di Outlook e visualizzano viste diverse delle cartelle di posta, del calendario, della rubrica e dell’elenco attività. Possono anche visualizzare diversi calendari e condividere i calendari con altri utenti di Outlook.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toWg
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-884&examname=Outlook%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-884
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Gestire l’ambiente Outlook (15-20%)
+- Creare e formattare i contenuti delle voci (25-30%)
+- Gestire i messaggi di posta elettronica (25-30%)
+- Gestire i contatti (15-20%)
+- Gestire oggetti calendario (15-20%)
+- Lavorare con le attività, le note e le voci del diario (5-10%)
+roles:
+- business-user
+products:
+- office-outlook
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

@@ -7,13 +7,17 @@ uid: exam.az-900
 displayName: AZ-900
 summary: |-
   <div>
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il il 28 maggio 2020. NOTA&#58; gli aggiornamenti annunciati prima del 15 aprile 2020 saranno implementati il 15 settembre 2020. Gli aggiornamenti ora previsti per il 28 maggio sono piccoli aggiornamenti alla formulazione; scarica il documento sulle competenze misurate qui di seguito per vedere cosa cambierà il 28 maggio.</div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+  <div><strong>Il contenuto di questo esame è stato aggiornato il 28 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.</strong><br/><br/></div>
   </div>
 
-  Questo esame è pensato per i candidati che desiderano dimostrare una conoscenza di base dei servizi cloud e di come tali servizi vengano forniti con Microsoft Azure. L'esame è rivolto ai candidati senza un background tecnico, come quelli che sono coinvolti nella vendita o nell'acquisto di soluzioni e servizi basati sul cloud o che sono coinvolti in qualche modo con soluzioni e servizi basati sul cloud, così come a coloro con un background tecnico che hanno la necessità di convalidare le loro conoscenze di base dei servizi cloud. Benché non sia richiesta alcuna esperienza IT tecnica, è utile avere conoscenze IT generali.
+  I candidati a questo esame dovrebbero avere una conoscenza di base dei servizi cloud e di come questi servizi vengano forniti con Microsoft Azure.
 
-  Questo esame può essere considerato il primo passo per conoscere i servizi cloud e scoprire come questi concetti siano esemplificati da Microsoft Azure. Può essere considerato come anticamera per l'esame per Microsoft Azure o per i servizi cloud di Microsoft. Sebbene convalidare le conoscenze di base sarebbe un primo passo utile, sostenere questo esame non è un pre-requisito per altre certificazioni Azure.
+  L'esame sui principi fondamentali di Azure è un'opportunità per dimostrare la conoscenza dei concetti di cloud, i servizi di base di Azure, i prezzi di Azure, lo SLA e il ciclo di vita e i fondamenti di sicurezza, privacy, conformità e affidabilità del cloud.
+
+  Questo esame è destinato a persone che iniziano a lavorare con soluzioni e servizi basati su cloud. I candidati dovrebbero essere in grado di dimostrare una conoscenza di base dei concetti del cloud, nonché dei servizi di Azure, dei carichi di lavoro, della sicurezza, della privacy, dei prezzi e del supporto. Inoltre, dovresti avere familiarità con i concetti di rete, archiviazione, elaborazione, supporto delle applicazioni e sviluppo delle applicazioni.
+
+  I Fondamenti di Azure possono essere usati per preparare altre certificazioni basate sul ruolo o di specialità di Azure, ma non è un prerequisito per alcuno di essi.
 subTitle: 'Questo esame misura la tua capacità di comprendere i seguenti concetti: concetti del cloud; servizi di base di Azure; sicurezza, privacy, conformità e affidabilità; e prezzi e supporto di Azure.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VwUY
@@ -31,30 +35,28 @@ locales:
 levels:
 - beginner
 skills:
-- 'Il contenuto di questo esame sarà aggiornato il il 28 maggio 2020. NOTA: gli aggiornamenti annunciati prima del 15 aprile 2020 saranno implementati il 15 settembre 2020. Gli aggiornamenti ora previsti per il 28 maggio sono piccoli aggiornamenti alla formulazione; scarica il documento sulle competenze misurate qui di seguito per vedere cosa cambierà il 28 maggio.'
-- Comprendere i concetti cloud (15-20%)
-- Conoscere i servizi di base di Azure (30-35%)
-- Conoscere la sicurezza, la privacy, la conformità e l'affidabilità (25-30%)
-- Conoscere i prezzi e il supporto di Azure (20-25%)
+- Il contenuto di questo esame è stato aggiornato il 28 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
+- Descrivere i concetti del cloud (15-20%)
+- Descrivere i principali servizi di Azure (30-35%)
+- Descrivere sicurezza, privacy, conformità e affidabilità (25-30%)
+- Descrivere gli accordi sui livelli di servizio dei prezzi di Azure e i cicli di vita (20-25%)
 roles:
 - developer
 products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 relatedCertifications:
 - related:
     uid: certification.azure-fundamentals
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Fundamentals'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
 - title: Assistenza per gli esami di certificazione
@@ -63,7 +65,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

@@ -1,0 +1,59 @@
+### YamlMime:Examination
+title: Word 2010
+metadata:
+  title: 'Exam 77-881: Word 2010'
+  description: 'Exam 77-881: Word 2010'
+uid: exam.77-881
+displayName: 77-881
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  Gli utenti di livello di base per Microsoft Office Word 2010 devono essere in grado di usare le funzioni e funzionalità del software. Devono conoscere e sapere come usare almeno l’80% delle funzioni e funzionalità di Microsoft Office 2010. Devono inoltre essere in grado di usare Microsoft Office 2010 per creare e modificare documenti professionali per numerosi scopi e in situazioni diverse. Gli utenti includono persone che svolgono varie mansioni a tutti i livelli&#58; professionale, studente e personale.
+subTitle: 'Gli utenti di livello di base per Microsoft Office Word 2010 devono essere in grado di usare le funzioni e funzionalità del software. Devono conoscere e sapere come usare almeno l’80% delle funzioni e funzionalità di Microsoft Office 2010. Devono inoltre essere in grado di usare Microsoft Office 2010 per creare e modificare documenti professionali per numerosi scopi e in situazioni diverse. Gli utenti includono persone che svolgono varie mansioni a tutti i livelli: professionale, studente e personale.'
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trjX
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-881&examname=Word%202010&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-881
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Condividere e aggiornare i documenti
+- Formattazione del contenuto
+- Applicare il layout di pagina e il contenuto riutilizzabile
+- Includere figure ed elementi grafici in un documento
+- Controllare i documenti
+- Applicare riferimenti e collegamenti ipertestuali
+- Eseguire operazioni di unione della posta elettronica
+roles:
+- business-user
+products:
+- office-word
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

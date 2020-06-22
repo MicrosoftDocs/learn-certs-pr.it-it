@@ -1,19 +1,18 @@
 ### YamlMime:Certification
-title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
+title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
 metadata:
-  title: 'Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert'
-  description: Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.
+  title: 'Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert'
+  description: I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
 uid: certification.power-apps-and-d365-solution-architect-expert
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  
-  Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende. 
-subTitle: Gli architetti di soluzioni per le app basate sul modello di Microsoft Power Apps in Dynamics 365 portano a termine implementazioni di successo e valutano in particolare in che modo la soluzione soddisfa le esigenze aziendali e tecniche più generali delle aziende.
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
+subTitle: I Solution Architect per Microsoft Dynamics 365 + Power Platform guidano implementazioni di successo e si concentrano sul modo in cui le soluzioni soddisfano le più ampie esigenze aziendali e tecniche delle organizzazioni.
 levels:
 - advanced
 skills:
-- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Immaginare la soluzione e analizzare i requisiti
 - Progettare una soluzione
 - Implementare la soluzione
@@ -43,15 +42,15 @@ prerequisites:
   isOptional: false
 resources:
 - title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Power Apps + Dynamics 365 Solution Architect Expert.'
+  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Dynamics 365 + Power Platform Solution Architect Expert.'
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4tKUY
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni

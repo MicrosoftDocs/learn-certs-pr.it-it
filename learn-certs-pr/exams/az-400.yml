@@ -1,8 +1,8 @@
 ### YamlMime:Examination
-title: Microsoft Azure DevOps Solutions
+title: Designing and Implementing Microsoft DevOps Solutions
 metadata:
-  title: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
-  description: 'Exam AZ-400: Microsoft Azure DevOps Solutions'
+  title: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
+  description: 'Exam AZ-400: Designing and Implementing Microsoft DevOps Solutions'
 uid: exam.az-400
 displayName: AZ-400
 summary: |-
@@ -12,12 +12,12 @@ summary: |-
 
   I candidati a questo esame sono professionisti DevOps che gestiscono persone, processi e tecnologie per consegnare continuamente prodotti e servizi validi che soddisfino le necessità degli utenti e gli obiettivi dell'azienda. I professionisti DevOps velocizzano la consegna ottimizzando le prassi, migliorando la comunicazione e collaborazione e creando automatismi. Progettano e implementano strategie per i codici delle applicazioni e le infrastrutture in modo da permettere un'integrazione continua, un test continuo, una consegna continua e un continuo monitoraggio e feedback.
 
-  I candidati devono essere esperti nelle pratiche Agile. Devono avere familiarità sia con l'amministrazione Azure sia con lo sviluppo Azure ed essere esperti in almeno una di queste aree. I professionisti Azure DevOps devono essere in grado di progettare e implementare le prassi DevOps per il controllo della versione, della conformità, del codice dell’infrastruttura, della gestione della configurazione, della build, del rilascio e del testing utilizzando le tecnologie Azure.
-subTitle: 'Questo esame misura la tua capacità di progettare una strategia DevOps e implementare Processi di sviluppo DevOps; gestione delle dipendenze; infrastruttura delle applicazioni; e integrazione, consegna e feedback continui.'
+  I candidati devono essere esperti nell’uso delle pratiche Agile. Devono avere familiarità sia con l'amministrazione di Azure sia con lo sviluppo di Azure ed essere esperti in almeno una di queste aree. I professionisti DevOps devono essere in grado di progettare e implementare le prassi DevOps per il controllo delle versioni, della conformità, del codice infrastruttura, della gestione della configurazione, delle build, delle release e dei test utilizzando le tecnologie Azure.
+subTitle: 'Questo esame misura la tua capacità di progettare una strategia DevOps e implementare: Processi di sviluppo DevOps; gestione delle dipendenze; infrastruttura delle applicazioni; e integrazione, consegna e feedback continui.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VP8d
 practiceTestUrl: https://us.mindhub.com/p/MU-AZ-400?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-400&examname=Exam%20AZ-400:%20Microsoft%20Azure%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-400&examname=Exam%20AZ-400:%20Designing%20and%20Implementing%20Microsoft%20DevOps%20Solutions&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-400
 locales:
 - en
 - ja
@@ -26,7 +26,7 @@ locales:
 levels:
 - advanced
 skills:
-- Il contenuto di questo esame sarà aggiornato il 15 giugno 2020. Si prega di scaricare il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
+- Il contenuto di questo esame sarà aggiornato il 15 giugno 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
 - Progettare una strategia DevOps (20-25%)
 - Implementare processi di sviluppo DevOps (20-25%)
 - Implementare l’integrazione continua (10-15%)
@@ -49,27 +49,21 @@ paths:
 - uid: learn.azdo.automate-deployments-azure-devops
 - uid: learn.azdo.capture-feedback-monitoring
 courses:
-- uid: course.az-400t01
-- uid: course.az-400t02
-- uid: course.az-400t03
-- uid: course.az-400t04
-- uid: course.az-400t05
-- uid: course.az-400t06
-- uid: course.az-400t07
+- uid: course.az-400t00
 relatedCertifications:
 - related:
-    uid: certification.azure-devops
+    uid: certification.devops-engineer
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure DevOps Engineer Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE41muG
+- title: Viaggio verso la certificazione
+  description: Analizza i passaggi per ottenere la certificazione di DevOps Engineer Expert e le risorse disponibili per aiutarti nella preparazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqC
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -78,7 +72,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

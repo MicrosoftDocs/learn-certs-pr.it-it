@@ -2,13 +2,15 @@
 title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
 metadata:
   title: 'Microsoft 365 Certified: Enterprise Administrator Expert'
-  description: "L’amministratore di Microsoft 365 Enterprise prende parte alla valutazione, pianificazione, migrazione, sviluppo e gestione dei servizi di Microsoft 365."
+  description: 'L’amministratore di Microsoft 365 Enterprise prende parte alla valutazione, pianificazione, migrazione, sviluppo e gestione dei servizi di Microsoft 365.'
 uid: certification.m365-enterprise-administrator
 iconUrl: /media/learn/certification/badges/microsoft-certified-expert-badge.svg
 summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
   Gli Amministratori di Microsoft 365 Enterprise valutano, pianificano, migrano, installano e gestiscono i servizi Microsoft 365.
   
-  <div style='color&#58; red;'><br/>La certificazione MCSE Productivity solutions Expert sarà ritirata il 30 giugno 2020. Pertanto la certificazione MCSE Productivity Solutions Expert non sarà considerata un prerequisito per la certificazione Microsoft 365: Enterprise Administrator Expert, dopo il 30 giugno 2021. (1 anno dopo il ritiro di MCSE).</div>
+  <div><br/><strong>La certificazione MCSE Productivity Solutions Expert verrà ritirata il 31 gennaio 2021. Pertanto la certificazione MCSE Productivity Solutions Expert non sarà considerata un prerequisito per la certificazione Microsoft 365&#58; Certificazione Enterprise Administrator Expert dopo il 31 gennaio 2022 (1 anno dopo il ritiro di MCSE).</strong></div>
 subTitle: Gli Amministratori di Microsoft 365 Enterprise valutano, pianificano, migrano, installano e gestiscono i servizi Microsoft 365.
 levels:
 - advanced
@@ -27,12 +29,8 @@ type: role-based
 products:
 - m365
 courses:
-- uid: course.ms-100t01
-- uid: course.ms-100t02
-- uid: course.ms-100t03
-- uid: course.ms-101t01
-- uid: course.ms-101t02
-- uid: course.ms-101t03
+- uid: course.ms-100t00
+- uid: course.ms-101t00
 prerequisites:
 - uid: certification.modern-desktop
   isOptional: false
@@ -54,15 +52,16 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
   description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
-- title: Cruscotto delle certificazioni
+- title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

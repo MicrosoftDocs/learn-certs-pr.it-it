@@ -2,13 +2,13 @@
 title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
 metadata:
   title: 'Microsoft Certified: Power Apps + Dynamics 365 Developer Associate'
-  description: Gli sviluppatori che usano Microsoft Power Apps e Dynamics 365 sono responsabili della progettazione, dello sviluppo, della protezione e della distribuzione dell’installazione di Dynamics 365. I candidati implementano componenti della soluzione che comprendono migliorie per le applicazioni, esperienza utente personalizzata, integrazioni di sistemi, conversioni dei dati, automazione personalizzata dei processi e visualizzazioni personalizzate.
+  description: Gli sviluppatori che usano Microsoft Power Apps e Dynamics 365 sono responsabili della progettazione, dello sviluppo, della protezione e della distribuzione dell’installazione di Dynamics 365. Implementano i componenti della soluzionne che includono migliorie delle applicazioni, esperienza utente personalizzata, integrazioni di sistema, conversioni dei dati, automazione personalizzata dei processi e visualizzazioni personalizzate.
 uid: certification.power-apps-and-d365-developer-associate
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
 
-  Gli sviluppatori che usano Microsoft Power Apps e Dynamics 365 sono responsabili della progettazione, dello sviluppo, della protezione e della distribuzione dell’installazione di Dynamics 365. I candidati implementano componenti della soluzione che comprendono migliorie per le applicazioni, esperienza utente personalizzata, integrazioni di sistemi, conversioni dei dati, automazione personalizzata dei processi e visualizzazioni personalizzate.
+  Gli sviluppatori che usano Microsoft Power Apps e Dynamics 365 sono responsabili della progettazione, dello sviluppo, della protezione e della distribuzione dell’installazione di Dynamics 365. Implementano i componenti della soluzionne che includono migliorie delle applicazioni, esperienza utente personalizzata, integrazioni di sistema, conversioni dei dati, automazione personalizzata dei processi e visualizzazioni personalizzate.
 subTitle: Gli sviluppatori che usano Microsoft Power Apps e Dynamics 365 sono responsabili della progettazione, dello sviluppo, della protezione e della distribuzione dell’installazione di Dynamics 365.
 levels:
 - intermediate
@@ -20,7 +20,7 @@ skills:
 - Implementare l’integrazione
 - Eseguire la distribuzione e il testing delle soluzioni
 - Creare un progetto tecnico
-- Configurare Common Data Service (CDS)
+- Configurare Common Data Service
 - Creare e configurare Power Apps
 - Configurare l’automazione dei processi aziendali
 - Estendere l’esperienza utente
@@ -61,10 +61,10 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni

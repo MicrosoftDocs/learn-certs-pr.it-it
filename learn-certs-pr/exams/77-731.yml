@@ -1,29 +1,30 @@
 ### YamlMime:Examination
 title: 'Outlook 2016: Core Communication, Collaboration and Email Skills'
 metadata:
-  title: 'Esame 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
-  description: 'Esame 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  title: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
+  description: 'Exam 77-731: Outlook 2016: Core Communication, Collaboration and Email Skills'
 uid: exam.77-731
 displayName: 77-731
-summary: >
-  I candidati ideali devono saper creare e modificare messaggi di posta elettronica dall'aspetto professionale; mantenere i calendari tra i diversi fusi orari e pianificare attività per diversi obiettivi e in più situazioni. I candidati utilizzeranno Outlook 2016 per migliorare la corrispondenza professionale, creare calendari e pianificare appuntamenti. Esempi di applicazioni includono il coordinamento delle risorse di costruzione, l'invio di messaggi per le campagne di marketing, la pianificazione di riunioni del personale e l'assegnazione di voci relative ad azioni della riunione.
+summary: |+
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
 
+  I candidati ideali devono saper creare e modificare messaggi di posta elettronica dall'aspetto professionale; mantenere i calendari tra i diversi fusi orari e pianificare attività per diversi obiettivi e in più situazioni. I candidati dovranno utilizzare Outlook 2016 per migliorare la corrispondenza professionale, creare calendari e programmare appuntamenti. Esempi di applicazioni includono il coordinamento delle risorse di creazione, l'invio di messaggi per campagne di marketing, la pianificazione di riunioni del personale e l'assegnazione di elementi di azione per le riunioni.
 
-  Gli esami di certificazione come Specialista di Microsoft Office 2016 (MOS) introducono un nuovo formato basato sulle prestazioni per migliorare la valutazione delle conoscenze, capacità e abilità di un candidato relativamente all’utilizzo dei programmi MOS 2016&#58;
-
-  - Le istruzioni per l’Esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò ha lo scopo di stimolare i candidati a comprendere l'obiettivo e l'utilizzo comune della funzionalità del programma, consentendo loro di completare le attività di ciascun progetto.
-
-  - Il formato dell'Esame MOS 2016 comprende più progetti.
-subTitle: I candidati ideali devono saper creare e modificare messaggi di posta elettronica dall'aspetto professionale; mantenere i calendari tra i diversi fusi orari e pianificare attività per diversi obiettivi e in più situazioni. I candidati utilizzeranno Outlook 2016 per migliorare la corrispondenza professionale, creare calendari e pianificare appuntamenti. Esempi di applicazioni includono il coordinamento delle risorse di costruzione, l'invio di messaggi per le campagne di marketing, la pianificazione di riunioni del personale e l'assegnazione di voci relative ad azioni della riunione.
+  Negli esami di certificazione Microsoft Office Specialist (MOS) 2016 è stato introdotto un nuovo formato basato sulle prestazioni che permette di valutare meglio le conoscenze, le competenze e le capacità del candidato relativamente ai programmi MOS 2016&#58;
+  - le istruzioni per l’esame MOS 2016 non includono generalmente il nome del comando, come nelle versioni precedenti. Ad esempio, i nomi delle funzioni sono stati eliminati e sostituiti con descrittori. Ciò significa che i candidati devono capire l'obiettivo e il normale utilizzo della funzionalità del programma per poter portare a termine le attività di ciascun progetto.
+  - Il formato dell'esame MOS 2016 include più progetti.
+subTitle: I candidati ideali devono saper creare e modificare messaggi di posta elettronica dall'aspetto professionale; mantenere i calendari tra i diversi fusi orari e pianificare attività per diversi obiettivi e in più situazioni. I candidati dovranno utilizzare Outlook 2016 per migliorare la corrispondenza professionale, creare calendari e programmare appuntamenti. Esempi di applicazioni includono il coordinamento delle risorse di creazione, l'invio di messaggi per campagne di marketing, la pianificazione di riunioni del personale e l'assegnazione di elementi di azione per le riunioni.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Y8ds
 providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
+- ar-sa
 - zh-cn
 - zh-tw
+- nl
 - de
 - es
 - fr
@@ -33,6 +34,7 @@ locales:
 levels:
 - intermediate
 skills:
+- 'NOTA: I punti elenco che appaiono sotto ciascuna delle abilità misurate nel documento qui sotto hanno lo scopo di illustrare come stiamo valutando tale abilità. Questo elenco non è definitivo o esaustivo.'
 - Gestire l'ambiente Outlook per la produttività (20-25%)
 - Gestire i messaggi (35-40%)
 - Gestire le pianificazioni (35-40%)
@@ -49,11 +51,12 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

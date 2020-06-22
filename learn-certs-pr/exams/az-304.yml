@@ -10,15 +10,14 @@ summary: |-
 
   I candidati idonei a questo esame sono progettisti di soluzioni Azure che fungono da consulenti alle parti interessate e che trasformano i requisiti di business in soluzioni sicure, scalabili e affidabili.
 
-  I candidati devono avere un'esperienza e una conoscenza avanzata delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, piattaforma dati, budgeting e governance. Le persone in questo ruolo hanno il compito di determinare l’impatto delle decisioni di ciascuna area sulla soluzione globale.
+  I candidati devono avere un'esperienza e una conoscenza avanzata delle operazioni IT, tra cui networking, virtualizzazione, identità, sicurezza, continuità aziendale, disaster recovery, piattaforma dati, budgeting e governance. Le persone che lavorano in questo ruolo hanno il compito di determinare l’impatto delle decisioni di ciascuna area sulla soluzione globale.
 
   I candidati devono avere competenze a livellodi esperto nell'amministrazione Azure e avere esperienza dei processi di sviluppo Azure e i processi DevOps.
 
-  <div style='font-weight&#58; bold;'><br/>NOTA&#58; questo esame sarà disponibile dal lunedì 29 giugno 2020 o intorno a tale data.</div>
+  <div style='font-weight&#58; bold;'><br/>NOTA&#58; Questo esame sarà disponibile dal lunedì 29 giugno 2020 o intorno a tale data.</div>
 subTitle: 'Questo esame misura la capacità di svolgere i seguenti compiti tecnici: monitoraggio del progetto, identità e sicurezza del progetto, archiviazione dei dati di progetto, continuità operativa del progetto e infrastruttura di progetto.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4pCWz
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=AZ-304&examname=Exam%20AZ-304:%20Microsoft%20Azure%20Architect%20Design&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Faz-304
 locales:
 - en
 levels:
@@ -37,16 +36,13 @@ relatedCertifications:
 - related:
     uid: none
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Solutions Architect Expert.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtVsd
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -55,7 +51,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

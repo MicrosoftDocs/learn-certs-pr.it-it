@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: 'MOS: Using Microsoft Office Excel 2007'
+metadata:
+  title: 'Exam 77-602: MOS: Using Microsoft Office Excel 2007'
+  description: 'Exam 77-602: MOS: Using Microsoft Office Excel 2007'
+uid: exam.77-602
+displayName: 77-602
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  I candidati a questo esame dovrebbero avere un'esperienza pratica equivalente da sei mesi a un anno nella creazione di risultati aziendali con Microsoft Office Excel 2007 e dovrebbero avere esperienza con le versioni precedenti di Office Excel. Questi candidati sono particolarmente efficaci ed efficienti nel creare e manipolare dati, formattare dati e contenuti, creare e modificare formule, presentare i dati visivamente, collaborare e proteggere i dati.
+subTitle: I candidati a questo esame dovrebbero avere un'esperienza pratica equivalente da sei mesi a un anno nella creazione di risultati aziendali con Microsoft Office Excel 2007 e dovrebbero avere esperienza con le versioni precedenti di Office Excel. Questi candidati sono particolarmente efficaci ed efficienti nel creare e manipolare dati, formattare dati e contenuti, creare e modificare formule, presentare i dati visivamente, collaborare e proteggere i dati.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t57x
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-602&examname=MOS:%20Using%20Microsoft%20Office%20Excel%202007&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-602
+locales:
+- en
+- ru
+levels:
+- beginner
+skills:
+- Creare e manipola dati
+- Formattare dati e contenuti
+- Creare e modificare formule
+- Presentare i dati visivamente
+- Collaborare e proteggere i dati
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

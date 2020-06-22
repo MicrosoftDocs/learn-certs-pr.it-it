@@ -5,15 +5,29 @@ metadata:
   description: 'MO-100: Microsoft Word (Word and Word 2019)'
 uid: exam.mo-100
 displayName: MO-100
-summary: Un candidato che ottiene questa certificazione ha seguito circa 150 ore di corsi teorici e laboratori pratici relativi al prodotto, ha dimostrato competenza a livello di tecnico del settore ed è pronto ad affacciarsi nel mercato del lavoro. Sa dimostrare di sapere applicare correttamente le principali funzionalità di Word ed è in grado di svolgere la sua attività in modo indipendente.
-subTitle: Questo esame valuta la tua capacità di sapere dimostrare di sapere applicare correttamente le principali funzionalità di Word creando e modificando documenti di due o tre pagine per vari obiettivi e in più situazioni. L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale.
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale. I candidati devono dimostrare la corretta applicazione delle principali caratteristiche di Word e completare le attività in modo indipendente.
+subTitle: Questo esame valuta la tua capacità di sapere applicare correttamente le principali funzionalità di Word creando e modificando documenti di due o tre pagine per vari obiettivi e in più situazioni. L’esame misura la tua capacità di creare e aggiornare rapporti professionali, newsletter con più colonne, curriculum vitae e corrispondenza commerciale.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WPxx
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- id-id
+- ko
+- es
+- nl
+- ja
+- ru
+- fr
+- it
+- pt-br
 levels:
 - intermediate
 skills:
@@ -21,7 +35,7 @@ skills:
 - Inserire e formattare testo, paragrafi e sezioni (20-25%)
 - Gestire tabelle ed elenchi (15-20%)
 - Creare e gestire riferimenti (5-10%)
-- Inserire e formattare elementi grafici (15-20%)
+- Inserire e formattare elementi grafici /15-20%)
 - Gestire la collaborazione dei documenti (5-10%)
 roles:
 - developer
@@ -36,11 +50,12 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

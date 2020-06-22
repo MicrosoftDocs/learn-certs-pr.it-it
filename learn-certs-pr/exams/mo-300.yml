@@ -5,15 +5,28 @@ metadata:
   description: 'MO-300: Microsoft PowerPoint (PowerPoint and PowerPoint 2019)'
 uid: exam.mo-300
 displayName: MO-300
-summary: I candidati che ottengono questa certificazione hanno circa 150 di pratica teorica e pratica nell’uso del prodotto, oltre a competenze a livello di Associate e sono pronti per affacciarsi sul mercato del lavoro. Sono in grado di applicare correttamente le funzionalità principali di PowerPoint e sono in grado di portare a termine le attività in modo indipendente.
-subTitle: Questo esame valuta la tua capacità di creare, modificare e migliorare presentazioni, tra cui la tua capacità di creare e gestire presentazioni, inserire e formattare forme e diapositive, creare contenuti per le diapositive, applicare transizioni e animazioni, e gestire più presentazioni. Gli esempi di presentazioni includono presentazioni di vendite professionali, corsi di formazione per dipendenti, materiali didattici e presentazioni per punti informativi.
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  Questo esame copre la capacità di creare e gestire presentazioni, inserire e formattare forme e diapositive, creare contenuti di diapositive, applicare transizioni e animazioni e gestire più presentazioni. Esempi di presentazioni includono presentazioni professionali per le vendite, formazione dei dipendenti, materiale didattico e presentazioni per punti informativi. I candidati devono dimostrare la corretta applicazione delle principali funzionalità di PowerPoint e completare le attività in modo indipendente.
+subTitle: Questo esame valuta la tua capacità di creare, modificare e migliorare presentazioni, tra cui la tua capacità di creare e gestire presentazioni, inserire e formattare forme e diapositive, creare contenuti per le diapositive, applicare transizioni e animazioni, e gestire più presentazioni. Esempi di presentazioni includono presentazioni professionali per le vendite, formazione dei dipendenti, materiale didattico e presentazioni per punti informativi.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8R
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
+- en-my
+- de
+- es
+- id-id
+- ko
+- nl
+- it
+- ru
+- fr
+- pt-br
 levels:
 - intermediate
 skills:
@@ -35,11 +48,12 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

@@ -54,7 +54,7 @@ Di seguito sono riportati alcuni esempi, non limitativi, di frode, comportamenti
 1. Criteri generali per la ripetizione degli esami di certificazione Microsoft Certified Professional (MCP)
     1. Se non si raggiunge il punteggio sufficiente in un esame la prima volta, è necessario attendere almeno 24 ore per sostenere nuovamente l'esame.
     2. Se non si raggiunge il punteggio sufficiente in un esame la seconda volta, è necessario attendere almeno 14 giorni per sostenere l'esame per la terza volta.
-    3. Anche per sostenere l'esame per la quarta volta e la quinta volta successiva, è necessario attendere 14 giorni. Non è possibile sostenere un determinato esame più di cinque volte in un anno (12 mesi). Questo periodo di 12 mesi inizia dal giorno del quinto tentativo di ripetizione dell'esame con esito negativo. È possibile sostenere nuovamente l'esame 12 mesi dopo tale data. Per sostenere nuovamente un determinato esame per più di cinque volte in un anno oppure per non dover attendere il tempo di intervallo previsto per la ripetizione degli esami, è necessario inviare un’apposita richiesta e ottenere la preventiva approvazione di Microsoft. Le richieste devono essere inviate a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Queste richieste devono contenere le seguenti informazioni:
+    3. Anche per sostenere l'esame per la quarta volta e la quinta volta successiva, è necessario attendere 14 giorni. Non è possibile sostenere un determinato esame più di cinque volte in un anno (12 mesi). Questo periodo di 12 mesi inizia dal primo tentativo. È possibile sostenere nuovamente l'esame 12 mesi dopo tale data. Per sostenere nuovamente un determinato esame per più di cinque volte in un anno oppure per non dover attendere il tempo di intervallo previsto per la ripetizione degli esami, è necessario inviare un’apposita richiesta e ottenere la preventiva approvazione di Microsoft. Le richieste devono essere inviate a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com). Queste richieste devono contenere le seguenti informazioni:
         - MCID
         - Nome
         - Indirizzo di posta elettronica
@@ -65,7 +65,7 @@ Di seguito sono riportati alcuni esempi, non limitativi, di frode, comportamenti
     1. Se non si raggiunge il punteggio sufficiente in un esame la prima volta, è necessario attendere 24 ore per sostenere nuovamente l'esame.
     2. Se non si raggiunge il punteggio sufficiente in un esame la seconda volta, è necessario attendere 7 giorni per sostenere l'esame per la terza volta.
     3. Per sostenere nuovamente un esame, è necessario un periodo di attesa di sette giorni.
-    4. Non è possibile sostenere un determinato esame più di cinque volte in un anno (12 mesi). Questo periodo di 12 mesi inizia dal giorno del quinto tentativo di ripetizione dell'esame con esito negativo. È possibile sostenere nuovamente l'esame 12 mesi dopo tale data.
+    4. Non è possibile sostenere un determinato esame più di cinque volte in un anno (12 mesi). Questo periodo di 12 mesi inizia dal primo tentativo. È possibile sostenere nuovamente l'esame 12 mesi dopo tale data.
     5. Se si raggiunge un punteggio sufficiente in un esame MTA, non è possibile sostenerlo nuovamente.
 
 3. Criteri per la ripetizione degli esami Microsoft Office Specialist (MOS)
@@ -128,7 +128,7 @@ In caso di problemi di sicurezza ed integrità, Microsoft si riserva il diritto 
 
 Gli esami Beta possono essere sostenuti a costi ridotti da circa 400 persone. Per approfittare del prezzo ridotto, è necessario un codice beta che deve essere inserito al momento del pagamento durante la registrazione. Per ottenere questo codice puoi:
 
-1. Registrarti nel database dei profili SME. I membri le cui competenze si allineano all'area di contenuti dell'esame riceveranno un messaggio di posta elettronica contenente il codice. Il codice è univoco per questo gruppo. Se sei un membro del nostro database di PMI, per l'accesso anticipato alla versione beta è necessario che tu mantenga aggiornato il tuo profilo poiché assegnamo questi codici a coloro che hanno competenze per il nuovo esame. Il programma di database dei profili SME è disponibile su [Microsoft Collaborate](https://aka.ms/collaborate). Consulta il post del blog [Help Us Create Exams and Learning Content!](https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&Id=375069) Registrati nel database SME oggi stesso!)
+1. Registrarti nel database dei profili SME. I membri le cui competenze si allineano all'area di contenuti dell'esame riceveranno un messaggio di posta elettronica contenente il codice. Il codice è univoco per questo gruppo. Se sei un membro del nostro database di PMI, per l'accesso anticipato alla versione beta è necessario che tu mantenga aggiornato il tuo profilo poiché assegnamo questi codici a coloro che hanno competenze per il nuovo esame. Il programma di database dei profili SME è disponibile su [Microsoft Collaborate](https://aka.ms/collaborate). Vedi il post sul blog [Help Us Create Exams and Learning Content!](/learn/certifications/posts/help-us-create-exams-and-learning-content) Unisciti al nostro database SME oggi!)
 2. Per informazioni sui prossimi esami beta guarda gli annunci su Microsoft Learn o sul nostro [blog della community](https://www.microsoft.com/en-us/learning/community-blog.aspx). Questi post contengono un codice che può essere usato per ottenere uno sconto sul prezzo dell’esame. I post vengono generalmente pubblicati il giorno in cui si aprono le registrazioni per un esame Beta. Questo codice è diverso rispetto a quello inviato agli SME che sono parte del nostro database.
 
 Si noti che i posti sono limitati e disponibili in base all'ordine di arrivo e che, per motivi di sicurezza, gli esami beta non sono disponibili in Cina, India, Pakistan o Turchia.
@@ -166,7 +166,7 @@ Seleziona il metodo da utilizzare per verificare il tuo stato. I metodi disponib
 
 ## Accordo di non divulgazione
 
-Updated: maggio 2018
+Updated: Maggio 2018
 
 ### ACCORDO PER GLI ESAMI DI CERTIFICAZIONE MICROSOFT
 
@@ -202,9 +202,9 @@ Il presente accordo entrerà in vigore a partire dalla data di accettazione tra 
 
 3. **CRITERI DEGLI ESAMI**
 
-    Il candidato deve accertarsi di aver compreso e di conformarsi con i criteri e le procedure degli Microsoft Certification exam, disponibili alla pagina [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx), nonché impegnarsi a rispettare le politiche e le procedure del centro in cui viene tenuto l'esame.
+    Il candidato deve accertarsi di aver compreso e di conformarsi con i criteri e le procedure degli Microsoft Certification exam, disponibili alla pagina [https://docs.microsoft.com/learn/certifications/certification-exam-policies](https://docs.microsoft.com/learn/certifications/certification-exam-policies), nonché impegnarsi a rispettare le politiche e le procedure del centro in cui viene tenuto l'esame.
 
-    Il candidato può consultare i criteri per la ripetizione degli Microsoft exam e altre procedure di test ed Microsoft exam alla pagina [https://www.microsoft.com/learning/certification-exam-policies.aspx](https://www.microsoft.com/learning/certification-exam-policies.aspx). Ulteriori informazioni sui criteri e sulle procedure del fornitore degli esami sono disponibili sul sito Web di tale fornitore.
+    Il candidato può consultare i criteri per la ripetizione degli Microsoft exam e altre procedure di test ed Microsoft exam alla pagina [https://docs.microsoft.com/learn/certifications/certification-exam-policies](https://docs.microsoft.com/learn/certifications/certification-exam-policies). Ulteriori informazioni sui criteri e sulle procedure del fornitore degli esami sono disponibili sul sito Web di tale fornitore.
 
     Il candidato ha trenta (30) giorni di tempo, dalla data in cui ha sostenuto l’esame, per contestare il punteggio ottenuto.
 
@@ -244,14 +244,14 @@ Il presente accordo entrerà in vigore a partire dalla data di accettazione tra 
 
 ## Contratto del programma di certificazione Microsoft
 
-Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un documento legale stipulato tra il candidato (**"tu"** o **”tuo**” ) e Microsoft (**"Microsoft**") riguardante la tua partecipazione al Programma di Certificazione Microsoft (**"Programma**"). I termini del presente Contratto si applicano a (a) qualsiasi certificazione Microsoft ottenuta dal candidato; e (b) alla partecipazione al programma, ivi incluso l'accesso e l'utilizzo da parte del candidato di qualsiasi vantaggio del Programma di certificazione Microsoft, qualsiasi credenziale di certificazione Microsoft o qualsiasi logo di certificazione Microsoft che Microsoft rende disponibile al candidato nell'ambito del programma. È consigliabile leggere attentamente il presente Contratto. L'ACCESSO O L'UTILIZZO DA PARTE DEL CANDIDATO DI UN VANTAGGIO DEL PROGRAMMA DI CERTIFICAZIONE O DI UNA CREDENZIALE PER UNA CERTIFICAZIONE MICROSOFT IMPLICA L'ACCETTAZIONE DEI TERMINI E DELLE CONDIZIONI DEL PRESENTE CONTRATTO. SE NON SI ACCETTANO I TERMINI E LE CONDIZIONI DEL PRESENTE CONTRATTO, NON SARÀ POSSIBILE ACCEDERE O UTILIZZARE ALCUN VANTAGGIO DEL PROGRAMMA DI CERTIFICAZIONE MICROSOFT, ALCUNA CREDENZIALE DI CERTIFICAZIONE MICROSOFT, NÉ ALCUN LOGO DI CERTIFICAZIONE MICROSOFT.
+Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un documento legale stipulato tra il candidato (**"tu"** o **"tuo"**) e Microsoft (**”Microsoft”**) riguardante la tua partecipazione al Programma di Certificazione Microsoft (**"Programma”**). I termini del presente Contratto si applicano a (a) qualsiasi certificazione Microsoft ottenuta dal candidato; e (b) alla partecipazione al programma, ivi incluso l'accesso e l'utilizzo da parte del candidato di qualsiasi vantaggio del Programma di certificazione Microsoft, qualsiasi credenziale di certificazione Microsoft o qualsiasi logo di certificazione Microsoft che Microsoft rende disponibile al candidato nell'ambito del programma. È consigliabile leggere attentamente il presente Contratto. L'ACCESSO O L'UTILIZZO DA PARTE DEL CANDIDATO DI UN VANTAGGIO DEL PROGRAMMA DI CERTIFICAZIONE O DI UNA CREDENZIALE PER UNA CERTIFICAZIONE MICROSOFT IMPLICA L'ACCETTAZIONE DEI TERMINI E DELLE CONDIZIONI DEL PRESENTE CONTRATTO. SE NON SI ACCETTANO I TERMINI E LE CONDIZIONI DEL PRESENTE CONTRATTO, NON SARÀ POSSIBILE ACCEDERE O UTILIZZARE ALCUN VANTAGGIO DEL PROGRAMMA DI CERTIFICAZIONE MICROSOFT, ALCUNA CREDENZIALE DI CERTIFICAZIONE MICROSOFT, NÉ ALCUN LOGO DI CERTIFICAZIONE MICROSOFT.
 
 1. DEFINIZIONI
 
    1. Per ***Consociata*** si intende qualsiasi entità giuridica che detiene la proprietà, è di proprietà di, o di cui è comunemente detenuta la proprietà con una parte. “Detenere la proprietà" significa avere più del 50% della proprietà o il diritto di gestire l'entità.
    2. “***Sito Web Microsoft Certified***" indica il sito Web Microsoft riservato esclusivamente ai professionisti certificati Microsoft.
    3. "***Microsoft***" indica l'entità Microsoft identificata nella sezione 12.4.
-   4. "***Certificazione Microsoft***" indica il superamento degli esami necessari e il rispetto e il mantenimento della conformità a tutti i requisiti per la certificazione o il rinnovo della certificazione necessari per avere il diritto di utilizzare la Credenziale corrispondente. L'elenco attuale di certificazioni Microsoft è disponibile alla pagina [Certificazioni Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based).
+   4. "***Certificazione Microsoft***" indica il superamento degli esami necessari e il rispetto e il mantenimento della conformità a tutti i requisiti per la certificazione o il rinnovo della certificazione necessari per avere il diritto di utilizzare la Credenziale corrispondente. L'elenco attuale di certificazioni Microsoft è disponibile alla pagina [Microsoft Certifications](https://docs.microsoft.com/learn/certifications/browse/?type=role-based).
    5. Per "***Credenziale di certificazione Microsoft***" o "***Credenziale***" si intende il titolo, completo o abbreviato, di una specifica Certificazione Microsoft utilizzata per attestare la conformità di un candidato ai requisiti previsti per una specifica Certificazione Microsoft.
    6. "***Esame di certificazione Microsoft***" o "***Esame***" indica un esame di certificazione Microsoft progettato per attestare le competenze di un candidato relative a una particolare tecnologia Microsoft che è oggetto dell'esame.
    
@@ -259,12 +259,12 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
 2. CERTIFICAZIONE MICROSOFT
    1. *Come ottenere e mantenere una certificazione Microsoft*: Per ottenere e mantenere una certificazione Microsoft, è necessario:
 
-        1. Superare tutti gli esami necessari e soddisfare tutti i requisiti per la certificazione e il rinnovo della certificazione per la relativa [Certificazione Microsoft](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based),
+        1. Superare tutti gli esami necessari e soddisfare tutti i requisiti per la certificazione e il rinnovo della certificazione per la relativa [Microsoft Certification](https://docs.microsoft.com/learn/certifications/browse/?type=role-based),
         2. Accettare i termini e le condizioni del presente Contratto.
         3. Rispettare i termini e le condizioni della versione corrente del Contratto, le Linee guida e tutti i requisiti del Programma.
         4. Rispettare tutti i requisiti aggiuntivi applicabili alla relativa Certificazione Microsoft.
 
-   2. *Modifiche ai requisiti delle Certificazioni Microsoft*. Microsoft può, a sua esclusiva discrezione, modificare i requisiti delle Certificazioni Microsoft (sia iniziali che continuative) in qualsiasi momento pubblicando i nuovi requisiti sul [sito web di Microsoft relativo alla formazione e alle certificazioni](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based) o sul [sito web di Microsoft relativo alle certificazioni](https://www.microsoft.com/learning/browse-all-certifications.aspx?certificationtype=role-based). Al candidato sono concessi tre (3) mesi di calendario, dalla data di pubblicazione delle modifiche da parte di Microsoft, per adeguarsi agli eventuali requisiti supplementari. I diritti all'utilizzo di una credenziale o logo specifici possono essere revocati se il candidato non si conforma agli eventuali requisiti supplementari per la certificazione o il rinnovo della certificazione associati a una credenziale o un logo specifici.
+   2. *Modifiche ai requisiti delle Certificazioni Microsoft*. Microsoft può, a sua esclusiva discrezione, modificare i requisiti delle Certificazioni Microsoft (sia iniziali che continuative) in qualsiasi momento pubblicando i nuovi requisiti sul [sito web di Microsoft relativo alla formazione e alle certificazioni](https://docs.microsoft.com/learn/certifications/browse/?type=role-based) o sul [sito web di Microsoft relativo alle certificazioni](https://docs.microsoft.com/learn/certifications/browse/?type=role-based). Al candidato sono concessi tre (3) mesi di calendario, dalla data di pubblicazione delle modifiche da parte di Microsoft, per adeguarsi agli eventuali requisiti supplementari. I diritti all'utilizzo di una credenziale o logo specifici possono essere revocati se il candidato non si conforma agli eventuali requisiti supplementari per la certificazione o il rinnovo della certificazione associati a una credenziale o un logo specifici.
 
    3. *Violazione del Contratto relativo agli esami*
 
@@ -298,8 +298,8 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
 
         1. Il candidato accetta di (i) astenersi da comportamenti che possano nuocere alla reputazione di Microsoft; (ii) evitare pratiche ingannevoli, fuorvianti o disoneste; (iii) evitare qualsivoglia rappresentazione o garanzia nei confronti dei clienti per conto di Microsoft; (iv) rispettare tutte le norme vigenti in materia di esportazione degli Stati Uniti, nonché altre leggi e regolamenti regionali in vigore; e (v) rispettare copyright e altre protezioni relative a diritti di proprietà e proprietà intellettuale.
         2. Il candidato è tenuto a non pubblicizzare, promuovere, sottintendere o suggerire in alcun modo di essere dipendente, affiliato, supportato o sponsorizzato da Microsoft, se non per indicare che ha conseguito tutti i requisiti specifici per la credenziale o le credenziali ottenute. Durante il periodo di validità del presente Contratto, sarà necessario inserire la seguente frase in ciascun contratto volto a fornire servizi che prevedono l'utilizzo di tecnologie Microsoft:
-    
-             "*Microsoft non è parte nel presente contratto e non sarà in alcun modo responsabile dei servizi oggetto del presente contratto. La Credenziale di certificazione Microsoft indica che sono stati conseguiti tutti i requisiti per la credenziale di certificazione Microsoft corrispondente. I servizi forniti non sono supportati o sponsorizzati da Microsoft*’.
+
+             *Microsoft non è parte nel presente contratto e non sarà in alcun modo responsabile dei servizi oggetto del presente contratto. La Credenziale di certificazione Microsoft indica che sono stati conseguiti tutti i requisiti per la credenziale di certificazione Microsoft corrispondente. I servizi forniti non sono supportati o sponsorizzati da Microsoft.*
         3. Alcuni stati e paesi regolano l'utilizzo del termine "engineer". Nel caso in cui venga utilizzata una Credenziale contenente la dicitura "Microsoft Certified Systems Engineer", sarà quindi necessario rispettare le leggi vigenti in materia.
 
    2. *Transcripts*: Il candidato è responsabile della revisione della versione digitale della Certificazione Microsoft per garantire che rispecchi fedelmente le credenziali di cui è attualmente in possesso. Se il candidato ritiene che la versione digitale sia imprecisa, avrà a disposizione fino a un (1) anno dalla data in cui è stato superato l'ultimo esame necessario per ottenere o mantenere la credenziale in questione per presentare una richiesta a Microsoft al fine di valutare il soddisfacimento di qualsiasi credenziale di cui il candidato ritenga di essere attualmente in possesso che non appare nella versione digitale.
@@ -334,7 +334,7 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
         5. Qualora il candidato sia responsabile di attività illecite.
         6. Oppure, qualora un'agenzia governativa o un tribunale scopra che i servizi forniti, che prevedono l'utilizzo di tecnologie Microsoft relative alla Certificazione Microsoft, siano in qualche modo difettosi.
         7. Qualora il candidato rilasci false dichiarazioni sullo stato della sua certificazione, sulla sua associazione con i Microsoft Partner o su qualsiasi altro rapporto con Microsoft. A seconda della gravità della non conformità, Microsoft può decidere di annullare definitivamente la certificazione o annullare la sua adesione al programma di certificazione Microsoft. In tal caso, il candidato perderà tutte le credenziale relative alle certificazioni Microsoft.
-        
+
 
     3. *Risoluzione automatica*. Il presente Contratto si risolverà automaticamente se il candidato perde lo stato di MCP o qualora Microsoft annulli il Programma.
 
@@ -367,7 +367,7 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
            Microsoft Ireland Operations Limited   
            The Atrium, Block B, Carmenhall Road   
            Sandyford Industrial Estate   
-           Dublino, 18, Irlanda   
+           Dublin, 18, Ireland   
 
        3. Di seguito è indicata l'entità Microsoft per i seguenti paesi o aree geografiche: Australia e relativi territori esterni, Bangladesh, Bhutan, Brunei Darussalam, Cambogia, Isole Cook, Figi, Polinesia francese, Territori Meridionali Francesi, Hong Kong, India, Indonesia, Kiribati, Repubblica Popolare Democratica del Laos, Macao, Malesia, Maldive, Isole Marshall, Mayotte, Micronesia, Nauru, Nepal, Nuova Zelanda, Niue, Isole Marianne Settentrionali, Palau, Papua Nuova Guinea, Filippine, Pitcairn, Samoa, Singapore, Isole Solomon, Sri Lanka, Thailandia, Timor Leste, Tokelau, Tonga, Tuvalu, Isole Wallis e Futuna, Vanuatu e Vietnam: 
 
@@ -382,7 +382,7 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
            Shinagawa Grand Central Tower   
            2-16-3, 2 Konan, Minato-ku,   
            Tokyo 108-0075   
-           Giappone
+           Japan
 
        5. L'entità Microsoft per Taiwan è la seguente:   
 
@@ -403,7 +403,7 @@ Il Contratto del programma di certificazione Microsoft (**"Contratto"**) è un d
            5th Floor, West Wing   
            POSCO Center   
            892 Daechi-Dong Gangnam-Gu   
-           Seul, 135-777, Corea 
+           Seoul, 135-777, Korea 
 
     5. *Legge applicabile*. La legge applicabile la giurisdizione e la competenza territoriale per il presente Contratto sono identificate di seguito. La scelta del foro competente non impedisce ad alcuna delle controparti di ottenere un provvedimento dell'autorità giudiziaria in caso di violazione dei diritti di proprietà intellettuale e degli obblighi di riservatezza o l'esecuzione del riconoscimento di qualsivoglia sentenza o ordine. È possibile ottenere un provvedimento dell'autorità giudiziaria o l'esecuzione del riconoscimento in qualsiasi giurisdizione competente.
         1. **Condizioni generali**. Ad eccezione di quanto previsto nella sezione 12.5 (b), il presente Contratto è disciplinato dalla legge dello stato di Washington (Stati Uniti). Qualora esistesse una giurisdizione federale in materia, le parti acconsentono alla giurisdizione e alla competenza territoriale esclusiva delle corti federali con sede in King County, Washington. In caso contrario, le parti acconsentono alla giurisdizione e alla competenza territoriale esclusiva della corte superiore di King County, Washington.
@@ -441,25 +441,25 @@ Updated: dicembre 2013
 
 Il candidato potrebbe essere idoneo ad ottenere un credito universitario da Excelsior College, un istituto accreditato a livello regionale. L’NCCRS (National College Credit Recommendation Service) ha definito raccomandazioni per i crediti relativi ai seguenti esami di certificazione Microsoft:
 
-**Esami di certificazione Microsoft**
+**Microsoft Certification Exams**
 
-[AZ-100: Microsoft Azure Infrastructure and Deployment](https://www.microsoft.com/learning/exam-AZ-100.aspx)
+AZ-100: Microsoft Azure Infrastructure and Deployment
 
-[AZ-101: Microsoft Azure Integration and Security](https://www.microsoft.com/learning/exam-AZ-101.aspx)
+AZ-101: Microsoft Azure Integration and Security
 
-[AZ-103: Microsoft Azure Administrator](https://www.microsoft.com/learning/exam-az-103.aspx)
+[AZ-103: Microsoft Azure Administrator](https://docs.microsoft.com/learn/certifications/exams/az-103)
 
 AZ-200: Microsoft Azure Developer Core Solutions
 
 AZ-201: Microsoft Azure Developer Advanced Solutions
 
-[AZ-203: Developing Solutions for Microsoft Azure](https://www.microsoft.com/learning/exam-AZ-203.aspx)
+[AZ-203: Developing Solutions for Microsoft Azure](https://docs.microsoft.com/learn/certifications/exams/az-203)
 
-[AZ-300: Microsoft Azure Architect Technologies](https://www.microsoft.com/learning/exam-AZ-300.aspx)
+[AZ-300: Microsoft Azure Architect Technologies](https://docs.microsoft.com/learn/certifications/exams/az-300)
 
-[AZ-301: Microsoft Azure Architect Design](https://www.microsoft.com/learning/exam-AZ-301.aspx)
+[AZ-301: Microsoft Azure Architect Design](https://docs.microsoft.com/learn/certifications/exams/az-301)
 
-[AZ-400: Microsoft Azure DevOps Solutions](https://www.microsoft.com/learning/exam-AZ-400.aspx)
+[AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://docs.microsoft.com/learn/certifications/exams/az-400)
 
 ### Procedura per la richiesta del credito
 
@@ -581,7 +581,7 @@ Il numero di domande di un esame è soggetto a modifiche, poiché gli esami veng
 
 **Quali formati di test e tipi di domande vengono utilizzati nell'esame che devo sostenere?**
 
-Poiché Microsoft introduce continuamente tecnologie di test e tipi di domande innovativi, non forniamo questo tipo di informazioni per ogni esame. Per avere un'idea dei contenuti che è possibile trovare in un esame, consigliamo di consultare alcuni [formati di esami e tipi di domade](https://www.microsoft.com/learning/certification-exams.aspx).
+Poiché Microsoft introduce continuamente tecnologie di test e tipi di domande innovativi, non forniamo questo tipo di informazioni per ogni esame. Per avere un'idea dei contenuti che è possibile trovare in un esame, consigliamo di consultare alcuni [formati di esami e tipi di domade](https://docs.microsoft.com/learn/certifications/certification-exams#exam-formats-and-question-types).
 
 **Quanto tempo ho a disposizione per completare l'esame?**
 
@@ -599,7 +599,7 @@ Il tempo a disposizione varia in base al tipo di esame che si deve sostenere.
 | Esami MCSA | 120 minuti | 150 minuti
 | Esami MCSE | 150 minuti | 180 minuti
 
-***Nota*** Per *durata dell'esame* si intende il tempo effettivamente a disposizione per completare l'esame. Il tempo da allocare si riferisce alla quantità di tempo da dedicare all'esame. Include il tempo necessario per consultare le istruzioni, leggere e accettare l'Accordo di non divulgazione (NDA), rispondere alle domande dell'esame e fornire commenti dopo il completamento (se si sceglie di farlo).
+***Nota** *Per durata dell'esame* si intende il tempo effettivamente a disposizione per completare l'esame. Il tempo da allocare si riferisce alla quantità di tempo da dedicare all'esame. Include il tempo necessario per consultare le istruzioni, leggere e accettare l'Accordo di non divulgazione (NDA), rispondere alle domande dell'esame e fornire commenti dopo il completamento (se si sceglie di farlo).
 
 **Come fa Microsoft a decidere quante domande relative a un particolare argomento includere nell'esame?**
 
@@ -611,11 +611,11 @@ Tutti i materiali di formazione relativi a un determinato ruolo sono ricavati da
 
 **Come devo prepararmi a un esame?**
 
-Il modo migliore per prepararsi a un esame è esercitarsi sulle competenze elencate nella pagina dei dettagli dell'esame. [Visualizza tutti gli esami](https://www.microsoft.com/learning/exam-list.aspx) per trovare l'esame che ti interessa. Per superare gli esami di certificazione Microsoft è necessaria un'esperienza pratica delle tecnologie. Il micro-apprendimento associato, i corsi online e i corsi con istruttore hanno lo scopo di consentire ai candidati di acquisire le competenze necessarie per avere successo nel ruolo lavorativo, un sottoinsieme del quale sarà valutato durante l'esame. Tuttavia, poiché l'esame si concentra sull'applicazione di tali competenze oltre a quanto insegnato in questi corsi, l'esperienza o la pratica oltre alla formazione sono fortemente consigliate prima di sostenere l'esame. Per iniziare la preparazione, consulta la sezione "Skills measured” (Competenze misurate) nella pagina dei dettagli dell'esame e valuta le tue competenze confrontandole con gli elementi valutati nell'esame. Il modo migliore per farlo è eseguire realmente le attività elencate e individuare le difficoltà riscontrate. È necessario esercitarsi fino a non incontrare più tali difficoltà.
+Il modo migliore per prepararsi a un esame è esercitarsi sulle competenze elencate nella pagina dei dettagli dell'esame. [Visualizza tutti gli esami](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) per trovare l'esame che ti interessa. Per superare gli esami di certificazione Microsoft è necessaria un'esperienza pratica delle tecnologie. Il micro-apprendimento associato, i corsi online e i corsi con istruttore hanno lo scopo di consentire ai candidati di acquisire le competenze necessarie per avere successo nel ruolo lavorativo, un sottoinsieme del quale sarà valutato durante l'esame. Tuttavia, poiché l'esame si concentra sull'applicazione di tali competenze oltre a quanto insegnato in questi corsi, l'esperienza o la pratica oltre alla formazione sono fortemente consigliate prima di sostenere l'esame. Per iniziare la preparazione, consulta la sezione "Skills measured” (Competenze misurate) nella pagina dei dettagli dell'esame e valuta le tue competenze confrontandole con gli elementi valutati nell'esame. Il modo migliore per farlo è eseguire realmente le attività elencate e individuare le difficoltà riscontrate. È necessario esercitarsi fino a non incontrare più tali difficoltà.
 
 I formatori certificati Microsoft lavorano con molti candidati mentre si preparano per le certificazioni. Spesso raccomandano i seguenti passaggi per aiutare i candidati a focalizzare i loro studi:
 
-- [Visualizza tutti gli esami](https://www.microsoft.com/learning/exam-list.aspx) per trovare l'esame che ti interessa.
+- [Visualizza tutti gli esami](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) per trovare l'esame che ti interessa.
 - Stampare la sezione Skills Measured (Misurazioni delle competenze) nella pagina. 
 - Scorrere l'intero elenco. Riflettere su ogni argomento. Se si è molto esperti su un argomento specifico, evidenziare l'argomento o cancellarlo. 
 - Individuare gli argomenti che devono ancora essere completati. Quindi, iniziare alcune ricerche mirate. Per ogni argomento non evidenziato, cercare sul web articoli specifici.
@@ -629,7 +629,7 @@ Se non hai superato l’esame, puoi dare la priorità alle competenze da prepara
 
 **Come faccio a registrarmi a un esame di certificazione Microsoft?**
 
-Visita la [pagina di registrazione agli esami](https://www.microsoft.com/learning/certification-exams.aspx) per leggere le istruzioni complete.
+Visita la [pagina di registrazione agli esami](https://docs.microsoft.com/learn/certifications/certification-exams) per leggere le istruzioni complete.
 
 **Devo sostenere l'esame in inglese?**
 
@@ -645,11 +645,11 @@ Gli esami di livello Expert e Associate in genere hanno un costo di 165 dollari 
 
 - Per informazioni sul prezzo esatto degli esami Microsoft Office Specialist (MOS), contattare [Certiport](http://www.certiport.com/).
 
-- Per tutti gli altri esami, [visualizza tutti gli esami](https://www.microsoft.com/learning/exam-list.aspx) per passare alla pagina degli esami che riporta anche il prezzo dei singoli esami.
+- Per tutti gli altri esami, [visualizza tutti gli esami](https://docs.microsoft.com/learn/certifications/browse/?resource_type=examination) per passare alla pagina degli esami che riporta anche il prezzo dei singoli esami.
 
 **Come faccio a fornire dei commenti sui materiali di studio o sulla formazione per l'esame?**
 
-I commenti relativi ai corsi di formazione Microsoft con istruttore possono essere forniti direttamente all'istruttore. Se hai un commento relativo ai corsi Microsoft online, compila il modulo di feedback visualizzato alla fine del corso. Microsoft non rivede i materiali di studio sviluppati da terze parti e non è responsabile dei relativi contenuti. In caso di domande o commenti sui materiali per la preparazione agli esami sviluppati da terze parti, è possibile contattare direttamente gli editori.
+I commenti relativi ai corsi di formazione Microsoft con istruttore possono essere forniti direttamente all'istruttore. Se hai un commento relativo ai corsi Microsoft online, compila il modulo di feedback visualizzato alla fine del corso. Microsoft non rivede i materiali di studio sviluppati da terze parti e non è responsabile dei relativi contenuti. In caso di domande o commenti sui materiali per la preparazione agli esami sviluppati da terze parti, contatta direttamente gli editori.
 
 **Come faccio a inviare un commento relativo a una domanda o un'esperienza dell'esame?**
 
@@ -665,7 +665,7 @@ Per segnalare dubbi sulla sicurezza, contatta [mlsecure@microsoft.com](mailto:ml
 
 **Che tipo di domande contengono gli esami di certificazione Microsoft?**
 
-Poiché Microsoft introduce continuamente tecnologie di test e tipi di domande innovativi, non forniamo questo tipo di informazioni per ogni esame. Per avere un'idea dei contenuti che è possibile trovare in un esame, consigliamo di consultare alcuni [formati di esami e tipi di domade](https://www.microsoft.com/learning/certification-exams.aspx).
+Poiché Microsoft introduce continuamente tecnologie di test e tipi di domande innovativi, non forniamo questo tipo di informazioni per ogni esame. Per avere un'idea dei contenuti che è possibile trovare in un esame, consigliamo di consultare alcuni [formati di esami e tipi di domade](https://docs.microsoft.com/learn/certifications/certification-exams#exam-formats-and-question-types).
 
 **Perché viene utilizzato il formato d'esame case study?**
 
@@ -703,7 +703,7 @@ Microsoft si impegna a mantenere allineati la formazione e l'esame quando si ver
 
 Il modo migliore per prepararsi a un esame è quello di esercitarsi sulle competenze elencate nella sezione "Skills measured” (Competenze misurate) nella pagina relativa ai dettagli dell'esame. Per superare gli esami di certificazione Microsoft è necessaria un'esperienza pratica delle tecnologie.
 
-Microsoft non revisiona i materiali di studio sviluppati da terze parti, non è responsabile dei relativi contenuti e non garantisce che siano aggiornati per riflettere gli aggiornamenti del prodotto. In caso di domande o commenti sui materiali per la preparazione agli esami sviluppati da terze parti, è possibile contattare direttamente gli editori.
+Microsoft non revisiona i materiali di studio sviluppati da terze parti, non è responsabile dei relativi contenuti e non garantisce che siano aggiornati per riflettere gli aggiornamenti del prodotto. In caso di domande o commenti sui materiali per la preparazione agli esami sviluppati da terze parti, contatta direttamente gli editori.
 
 **Perché in un esame erano inclusi materiali che non sono stati trattati nel corso di formazione Microsoft o nel manuale Microsoft Press?**
 
@@ -754,7 +754,7 @@ Se si supera un esame Beta, si ottengono i crediti per quell'esame e la relativa
 
 **Chi devo contattare per eventuali domande relative ai risultati degli esami Beta?**
 
-Se non si riesce a visualizzare il rapporto del punteggio online o non lo si riceve entro due settimane dalla data definitiva di pubblicazione dell’esame, è possibile rivolgersi al fornitore dell’esame per sapere quando saranno elaborati i risultati. Per eventuali domande sulla versione digitale, rivolgersi al [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx).
+Se non si riesce a visualizzare il rapporto del punteggio online o non lo si riceve entro due settimane dalla data definitiva di pubblicazione dell’esame, è possibile rivolgersi al fornitore dell’esame per sapere quando saranno elaborati i risultati. Se hai domande sulla tua trascrizione, ti preghiamo di contattare [Certification Support](https://aka.ms/mcpforum).
 
 **Chi devo contattare se non ho ricevuto il mio voucher di sconto del 25% per sostenere l'esame Beta?**
 
@@ -806,7 +806,7 @@ Dopo aver completato un esame, i punti ottenuti per ogni domanda vengono sommati
 
 **Esami tecnici.** Tutti gli esami tecnici sono dimensionati in modo che il punteggio minimo sia 700. Qualsiasi punteggio superiore o uguale a 700 significa "esame superato". Qualsiasi punteggio inferiore a 700 significa "esame non superato". Il numero effettivo di elementi a cui bisogna rispondere correttamente per superare l'esame è determinato da un gruppo di esperti del settore insieme agli esperti Microsoft in psicometria durante lo sviluppo dell'esame e il supporto in itinere. Il punteggio di superamento minimo è basato sulle conoscenze e le capacità necessarie per dimostrare una determinata competenza e sulla difficoltà delle domande presentate a un candidato.
 
-**Esami su Microsoft Office.** Tutti i punteggi degli esami su Microsoft Office sono riportati su una scala da 1 a 1.000. Il punteggio minimo richiesto per il superamento varia a seconda dell'esame e viene indicato nel rapporto del punteggio. La percentuale effettiva del punteggio minimo viene determinata da un gruppo di esperti del settore utilizzando una procedura simile a quella utilizzata per impostare il punteggio minimo degli esami tecnici di Microsoft.
+**Microsoft Office exams:** Tutti i punteggi degli esami su Microsoft Office sono riportati su una scala da 1 a 1.000. Il punteggio minimo richiesto per il superamento varia a seconda dell'esame e viene indicato nel rapporto del punteggio. La percentuale effettiva del punteggio minimo viene determinata da un gruppo di esperti del settore utilizzando una procedura simile a quella utilizzata per impostare il punteggio minimo degli esami tecnici di Microsoft.
 
 **Perché Microsoft riporta punteggi scalati?**
 
@@ -944,8 +944,6 @@ Se stabilisce che un centro di testing ha dimostrato un comportamento illecito o
 
 È necessario inviare un messaggio di posta elettronica a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) e includere il maggior numero possibile di informazioni sulla situazione e sulle persone coinvolte. Benché le segnalazioni anonime siano ben accette, spesso sono necessarie più informazioni per condurre un'analisi approfondita. Se si è disposti a collaborare, includere informazioni di contatto dettagliate in modo da poter essere contattati da Microsoft per ulteriori chiarimenti. Microsoft dispone di personale dedicato che si occupa di approfondire tali segnalazioni. È proprio grazie a queste segnalazioni degli utenti che diversi siti Web sono stati chiusi. Visto il volume di messaggi di posta elettronica che Microsoft riceve, non è sempre possibile ricevere una risposta personale.
 
-Don Field, precedente Senior Director della divisione Certification and Training, descrive [l’impegno profuso per proteggere il valore delle certificazioni Microsoft](https://borntolearn.mslearn.net/b/weblog/archive/2011/11/10/ensuring-integrity-of-our-certification-program), che ha portato a un'azione giudiziaria da 13,5 milioni di dollari. Leggere il suo post e segui il nostro blog [Born to Learn](https://borntolearn.mslearn.net/) per ricevere aggiornamenti continui sulle certificazioni e sulla formazione Microsoft.
-
 **Se segnalo un dubbio in materia di sicurezza, posso rimanere anonimo?**
 
 Sì. Tutta la corrispondenza inviata a [mlsecure@microsoft.com](mailto:mlsecure@microsoft.com) viene mantenuta anonima e Microsoft non condividerà le informazioni di contatto con nessuno. Se si desidera includere le informazioni di contatto in modo da essere contattati qualora fossero necessari ulteriori dettagli, Microsoft si impegnerà a proteggerle.
@@ -976,7 +974,7 @@ Dopo aver iniziato l'esame, risponderai a tutte le domande tradizionali dell'esa
 
 - Ogni esame prevede uno/a o due sezioni/laboratori dedicati alle prestazioni con più attività che il candidato è tenuto a completare. La ricerca mostra che il completamento delle attività richiede un tempo superiore di circa 4 volte rispetto a un'attività tradizionale. Gestisci il tuo tempo in modo da avere tempo sufficiente per completare i laboratori. Abbiamo assicurato che i candidati che gestiscono saggiamente il loro tempo avranno molto tempo in più di quello necessario per completare il / i laboratorio / i.
 
-- Il numero di laboratori e compiti dell'esame è fornito nella pagina di panoramica che precede il primo laboratorio. Leggere bene il contenuto della pagina e usare queste informazioni per gestire al meglio il tempo.
+- Il numero di laboratori e compiti dell'esame è fornito nella pagina di panoramica che precede il primo laboratorio. Leggere bene il contenuto della pagina! e usare queste informazioni per gestire al meglio il tempo.
 
 - NON aspettare che le attività siano state eseguite prima di passare all’attività successiva. In alcuni casi, prima di completare un'attività è necessario fare qualcosa, ma questo verrà indicato nell'attività e si potrà lavorare su altre attività mentre tale attività viene eseguita. **Non perdere tempo ad aspettare che le attività vengano** eseguite. Passare a qualcosa che non è associato all’attività in esecuzione per sfruttare al meglio il tempo a disposizione durante l'esame. In alcuni casi è sufficiente iniziare un’attività per ottenere un punteggio (ad es. creare una risorsa in Azure). In questo caso è possibile lasciare questa attività in esecuzione in background mentre si lavora su altre attività. L’elenco di attività include una nota che informa semplicemente il candidato che deve iniziare l’attività. Puoi passare ad altre attività o persino lasciare la sezione (passare al laboratorio successivo, se possibile, o terminare l'esame) senza essere penalizzato. **Leggi attentamente l'attività. Fai ciò che è necessario per risolvere il problema posto nell'attività.**
 
@@ -1041,7 +1039,7 @@ No. Le competenze valutate rimangono le stesse, indipendentemente dal formato de
 
 **Sono previsti requisiti speciali per i centri di testing che hanno laboratori? Molti centri di testing non sono presenti nell’elenco di centri in cui è possibile sostenere esami con laboratori, anche se in questi centri è possibile sostenere altri tipi di esami.**
 
-I centri di testing in cui è possibile eseguire esami con laboratori devono soddisfare requisiti di connettività Internet specifici. Pertanto, l’elenco di centri è più limitato. I laboratori che verranno progressivamente aggiunti agli esami basati sui ruoli saranno gestiti dai centri che eseguono tali esami. Tuttavia, è possibile anche sostenere questi esami con una supervisione online. Per informazioni più dettagliate, consulta la pagina Web https://www.microsoft.com/learning/online-proctored-exams.aspx. Se il candidato ha in mente un centro di valutazione specifico, può contattarlo direttamente per sapere se gestisce esami con laboratori perché è possibile che non sia visualizzato nell'elenco come centro disponibile dopo la selezione dell'esame. In questo caso, consigliamo al candidato di cercare un altro centro oppure di sostenere l'esame con l’opzione della sorveglianza online.
+I centri di testing in cui è possibile eseguire esami con laboratori devono soddisfare requisiti di connettività Internet specifici. Pertanto, l’elenco di centri è più limitato. I laboratori che verranno progressivamente aggiunti agli esami basati sui ruoli saranno gestiti dai centri che eseguono tali esami. Tuttavia, è possibile anche sostenere questi esami con una supervisione online. Per informazioni più dettagliate, consulta la pagina Web [https://docs.microsoft.com/learn/certifications/online-exams](https://docs.microsoft.com/learn/certifications/online-exams). Se il candidato ha in mente un centro di valutazione specifico, può contattarlo direttamente per sapere se gestisce esami con laboratori perché è possibile che non sia visualizzato nell'elenco come centro disponibile dopo la selezione dell'esame. In questo caso, consigliamo al candidato di cercare un altro centro oppure di sostenere l'esame con l’opzione della sorveglianza online.
 
 ### Certificazioni basate sui ruoli
 
@@ -1086,9 +1084,9 @@ Sì. È seguire la stessa procedura applicabile agli studenti. In altre parole, 
 
 **Chi posso contattare per domande sulla procedura di verifica accademica per gli esami di certificazione Microsoft?**
 
-Per domande generali relative alla registrazione all'esame, contattare il [Microsoft Regional Service Center](https://www.microsoft.com/learning/help.aspx). Per domande specifiche su una richiesta di verifica nuova o in sospeso, [contattare il Supporto](https://academic.getmicrosoftkey.com/default/support).
+In caso di domande generali relative alla registrazione degli esami o domande specifiche per una richiesta nuova o in attesa di verifica, si prega di contattare [Certification Support](https://aka.ms/mcpforum).
 
-## Richieste di sistemazioni speciali
+### Richieste di sistemazioni speciali
 
 **Cosa occorre fare per richiedere una sistemazione speciale?**
 

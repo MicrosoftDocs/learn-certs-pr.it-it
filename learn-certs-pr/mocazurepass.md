@@ -12,9 +12,9 @@ ms.author: micsullivan
 
 # Accesso a Microsoft Learning Azure Pass per studenti di Microsoft Learning Partner autorizzati
 
-<div style='color&#58; red;'><font color="red">In risposta al Coronavirus (COVID-19), Microsoft sta dando la <a href="https://azure.microsoft.com/blog/">priorità alla capacità di Azure</a> dove è maggiormente necessaria. A supporto di questa politica abbiamo rimosso per un periodo indeterminato le iscrizioni Azure Pass dal marketplace dei corsi e dal portale MCT Azure Pass.</font></div>
+<div style='color&#58; red;'><font color="red">Microsoft WWL ha ripristinato l'accesso ai pass di Azure. Si prega di notare che questa è una soluzione non SLA e alcune aree potrebbero ancora essere soggette a restrizioni delle risorse.<br/><br/>L'interfaccia di Azure fornirà feedback su quali aree e dimensioni sono supportate e se ci siano richieste particolari per la regione selezionata. Prendi in considerazione l'idea di utilizzare un'altra regione supportata dall'abbonamento che non presenti richieste particolari o restrizioni sulle dimensioni.<br/><br/>Per ulteriori informazioni su soluzioni alternative supportate da SLA, contattare uno degli Hoster di laboratorio autorizzati (ALH) che attualmente forniscono l'accesso ad Azure.</font></div>
 
-Ultimo aggiornamento: **26 marzo 2020**
+Ultimo aggiornamento: **venerdì 22 maggio 2020**
 
 Microsoft offre ai tuoi studenti l'accesso a un Microsoft Azure Pass gratuito di 30 giorni quando si registrano per un corso idoneo relativo ad Azure usando i corsi ufficiali Microsoft. I pass per gli studenti possono essere ottenuti solo dal Microsoft Learning Partner autorizzato tramite il Marketplace dei corsi ed è direttamente collegato all'acquisto di un corso MOC, con il limite di un pass per ciascun corso MOC ordinato. Non saranno disponibili altri meccanismi per ottenere i pass per gli studenti. Se un Learning Partner ordina un corso MOC ma non seleziona il Pass Azure che è disponibile con il corso al momento dell'acquisto, il Partner avrà la possibilità di tornare al Marketplace dei corsi e, se necessario, ordinare successivamente quel Pass.
 
@@ -31,14 +31,14 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - 10986 Updating Your Skills to SQL Server 2016
 - 10998 Updating Your Skills to SQL Server 2017
 - 20486 Developing ASP.NET Core/MVC 5 Web Applications
-- 20487 Developing Windows Azure™ and Web Services
+- 20487 Developing Windows Azure™ e Web Services
 - 20744 Securing Windows Server 2016
 - 20745 Implementing a Software-Defined DataCenter
 - 20765 Provisioning SQL Databases
 - 20767 Implementing a SQL Data Warehouse
 - 20777 Implementing Microsoft Azure Cosmos DB Solutions
 - 20778 Analyzing Data with Power BI
-- 40369 Cloud Fundamentals: Esame MTA 98-369
+- 40369 Cloud Fundamentals: MTA Exam 98-369
 - 40501 Microsoft Cloud Workshop: Cloud-native applications
 - 40502 Microsoft Cloud Workshop: Big Data & Visualization
 - 40503 Microsoft Cloud Workshop: Enterprise-ready Cloud
@@ -65,7 +65,7 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - 40532 Microsoft Cloud Workshop: Mobile App Innovation
 - 40532 Microsoft Cloud Workshop: Mobile App Innovation
 - 40533 Microsoft Cloud Workshop: OSS PaaS and DevOps
-- 40534 Microsoft Cloud Workshop: Protezione PaaS
+- 40534 Microsoft Cloud Workshop: Securing PaaS
 - 40535 Microsoft Cloud Workshop: Serverless Architecture
 - 40550 Microsoft Cloud Workshop: Windows Server and SQL Server 2008-R2 end of support planning
 - 40557 Microsoft Cloud Workshop: Cosmos DB Real Time Advanced Analytics
@@ -97,7 +97,7 @@ Gli MCT sono autorizzati a richiedere un pass idoneo per le loro esigenze di pre
 - AZ-400T00 Designing and Implementing Microsoft DevOps Solutions
 - AZ-400T0X Azure DevOps Engineer courses
 - AZ-500T00 Microsoft Azure Security Technologies
-- AZ-900T00 Microsoft Azure Fundamentals (2 Day)
+- AZ-900T00 Microsoft Azure Fundamentals (2 giorni)
 - DP-050T00 Migrate SQL workloads to Azure
 - DP-060T00 Migrate NoSQL workloads to Azure Cosmos DB
 - DP-070T00 Migrate Open Source Data Workloads to Azure
@@ -141,6 +141,6 @@ Questo pass per studenti disponibile per Microsoft Learning Partners funziona in
 | Non può essere usato per acquistare prodotti venduti tramite Marketplace o Store o prodotti venduti in altro modo separatamente da Azure (ad esempio, Microsoft Azure Active Directory Premium). |
 | Si può convertire in un normale abbonamento a pagamento e conservare qualsiasi lavoro creato in Azure con questo Microsoft Learning Azure Pass. |
 
-Un elenco completo di tutte le funzionalità legali per l'abbonamento di prova disponibile per il pubblico è cosultabile sul seguente sito: [https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
+Un elenco completo di tutte le funzionalità legali per l'abbonamento di prova disponibile per il pubblico è consultabile sul seguente sito: [https://azure.microsoft.com/offers/azure-pass/](https://azure.microsoft.com/offers/azure-pass/).
 
 (Si noti che questo collegamento viene fornito solo per aggiungere ulteriore chiarezza e non è correlato esclusivamente a questa versione del Microsoft Student Azure Pass)

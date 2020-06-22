@@ -1,39 +1,41 @@
 ### YamlMime:Examination
 title: Microsoft Dynamics 365 Sales
 metadata:
-  title: 'Esame MB-210: Microsoft Dynamics 365 Sales'
-  description: 'Esame MB-210: Microsoft Dynamics 365 Sales'
+  title: 'Exam MB-210: Microsoft Dynamics 365 Sales'
+  description: 'Exam MB-210: Microsoft Dynamics 365 Sales'
 uid: exam.mb-210
 displayName: MB-210
-summary: >-
-  I candidati per questo esame sono i consulenti funzionali di Dynamics 365 con esperienza di vendita. Sono responsabili dell'implementazione di soluzioni che supportino un ciclo di vita delle vendite per funzionare in modo efficiente ed efficace e che consentano di raggiungere gli obiettivi di fatturato, le strategie aziendali e gli obiettivi aziendali.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il venerdì 1 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
+  </div>
 
-  <br/>
+  I candidati per questo esame sono i consulenti funzionali di Dynamics 365 con esperienza di vendita. I candidati sono responsabili dell'implementazione di soluzioni che supportano un ciclo di vita delle vendite che funzioni in modo efficiente ed efficace, e consenta di raggiungere gli obiettivi di fatturato, le strategie aziendali e gli obiettivi aziendali.
 
-
-  Sono responsabili della configurazione e dell'espansione delle funzionalità principali di comando, dei contatti, degli account, delle opportunità e delle entità di supporto per mappare i processi di vendita in atto presso l'azienda. Identificano le opportunità di usare Power Apps per sviluppare esperienze unificate per tutti i dispositivi; automatizzare l’integrazione delle applicazioni, i flussi dei processi aziendali e altri strumenti di automazione allo scopo di creare un’applicazione che supporti “l’arrivo di contanti”.
-
+  I candidati sono responsabili della configurazione e dell'espansione delle funzionalità principali per i potenziali clienti, i contatti, gli account, le opportunità e le entità di supporto per mappare i processi di vendita in atto presso l'azienda. Identificano le opportunità di usare Power Apps per sviluppare esperienze unificate per tutti i dispositivi; automatizzare l’integrazione delle applicazioni, i flussi dei processi aziendali e altri strumenti di automazione allo scopo di creare un’applicazione che supporti “l’arrivo di contanti”.
 
   Devono possedere una solida conoscenza del business e preferibilmente un'esperienza diretta nel settore delle vendite in uno o più ruoli di vendita.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: eseguire la configurazione; gestire le entità di vendita di base; e gestire le entità di vendita.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VUjN
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-210&examname=Exam%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 locales:
 - en
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MB-210&examname=Esame%20MB-210:%20Microsoft%20Dynamics%20365%20for%20Sales&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fmb-210
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame è stato aggiornato il venerdì 1 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Eseguire la configurazione (40-45%)
 - Gestire le principali entità di vendita (20-25%)
 - Gestire le entità di vendita (35-40%)
 roles:
 - functional-consultant
-exams:
-- uid: exam.mb-200
 products:
 - dynamics
 - dynamics-sales
+exams:
+- uid: exam.mb-200
 courses:
 - uid: course.mb-210t01
 paths:
@@ -50,18 +52,22 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

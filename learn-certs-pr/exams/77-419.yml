@@ -1,0 +1,47 @@
+### YamlMime:Examination
+title: Microsoft SharePoint 2013
+metadata:
+  title: 'Exam 77-419: Microsoft SharePoint 2013'
+  description: 'Exam 77-419: Microsoft SharePoint 2013'
+uid: exam.77-419
+displayName: 77-419
+summary: |-
+  <div><div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div><strong>Questa certificazione verrà ritirata il 30 giugno 2020. Potrebbe essere disponibile un esame sostitutivo. Per saperne di più, visita il nostro blog&#58; <a href='https://www.microsoft.com/en-us/learning/community.aspx'>https://www.microsoft.com/en-us/learning/community.aspx</a> e guarda i nostri post sul ritiro degli esami. Nota&#58; Gli esami vengono ritirati alle 23&#58;59 (CST).<br/><br/></strong></div>
+  </div>
+
+  I candidati all'esame Microsoft SharePoint 2013 devono avere una solida conoscenza dell'ambiente SharePoint e la capacità di eseguire tutte le attività a livello di sito. Devono conoscere e dimostrare di saper applicare correttamente le principali funzionalità di SharePoint 2013 per siti, raccolte ed elenchi. I candidati devono essere in grado di ottimizzare e personalizzare i siti di SharePoint per offrire strutture, risolvere problemi, agevolare la collaborazione e migliorare la produttività. Le possibili applicazioni includono la gestione delle autorizzazioni dell'elenco, l'aggiunta di contenuto ad Avvio veloce, la creazione di siti del team e la modifica delle visualizzazioni della raccolta. I ruoli dei candidati possono includere personale del supporto tecnico, project manager, responsabili dei team, capi dipartimento e così via.
+subTitle: I candidati all'esame Microsoft SharePoint 2013 devono avere una solida conoscenza dell'ambiente SharePoint e la capacità di eseguire tutte le attività a livello di sito. Devono conoscere e dimostrare di saper applicare correttamente le principali funzionalità di SharePoint 2013 per siti, raccolte ed elenchi. I candidati devono essere in grado di ottimizzare e personalizzare i siti di SharePoint per offrire strutture, risolvere problemi, agevolare la collaborazione e migliorare la produttività. Le possibili applicazioni includono la gestione delle autorizzazioni dell'elenco, l'aggiunta di contenuto ad Avvio veloce, la creazione di siti del team e la modifica delle visualizzazioni della raccolta. I ruoli dei candidati possono includere personale del supporto tecnico, project manager, responsabili dei team, capi dipartimento e così via.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4toX6
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-419&examname=Microsoft%20SharePoint%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-419
+locales:
+- en
+levels:
+- beginner
+skills:
+- Creare e contenuti in formato (25-30%)
+- Gestire i siti SharePoint (30-35%)
+- Partecipare alle comunità di utenti (15-20%)
+- Configurare e utilizzare i risultati di una ricerca su un sito (15-20%)
+roles:
+- business-user
+products:
+- office-sp
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

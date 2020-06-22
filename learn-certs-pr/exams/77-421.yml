@@ -1,0 +1,48 @@
+### YamlMime:Examination
+title: Microsoft OneNote 2013
+metadata:
+  title: 'Exam 77-421: Microsoft OneNote 2013'
+  description: 'Exam 77-421: Microsoft OneNote 2013'
+uid: exam.77-421
+displayName: 77-421
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  I candidati per l'esame Microsoft OneNote 2013 devono conoscere i concetti di base dell'ambiente OneNote e saper completare le attività in modo autonomo. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di OneNote 2013.
+
+  I candidati devono essere in grado di creare, modificare e condividere blocchi appunti per diversi scopi e in più situazioni. Utilizzano OneNote come blocco appunti digitale per facilitare il lavoro e per l'integrazione con altre applicazioni Office 2013. I candidati utilizzano le funzionalità di OneNote 2013 per organizzare e collaborare in modo efficace. Gli esempi di blocchi appunti includono appunti delle lezioni, verbali di riunioni, organizzazione di eventi ed elenchi attività. I ruoli dei candidati possono includere studenti, istruttori, assistenti amministrativi, team aziendali, project manager e così via.
+subTitle: I candidati per l'esame Microsoft OneNote 2013 devono conoscere i concetti di base dell'ambiente OneNote e saper completare le attività in modo autonomo. Devono conoscere e dimostrare di saper applicare correttamente le funzionalità principali di OneNote 2013.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4trkE
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-421&examname=Microsoft%20OneNote%202013&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-421
+locales:
+- en
+- nb
+levels:
+- beginner
+skills:
+- Gestire l’ambiente OneNote (25-30%)
+- Condividere e collaborare con altri utenti (15-20%)
+- Organizzare e ricercare note (20-25%)
+- Modificare e collegare contenuti in OneNote (25-30%)
+roles:
+- business-user
+products:
+- office-onenote
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

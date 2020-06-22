@@ -5,15 +5,18 @@ metadata:
   description: 'MO-101: Microsoft Word Expert (Word and Word 2019)'
 uid: exam.mo-101
 displayName: MO-101
-summary: I candidati che ottengono questa certificazione hanno circa 150 ore di formazione teorica e pratica nell’uso del prodotto, oltre a competenze a livello di Expert e sono pronti ad affacciarsi sul mercato del lavoro. Sono in grado di applicare correttamente le funzionalità principali di Word a livello di Expert e di portare a termine le attività in modo indipendente.
-subTitle: Questo esame misura la tua capacità di creare e gestire documenti professionali per più situazioni e scopi specifici. In sede di esame verrà valutata la tua capacità di personalizzare gli ambienti Windows per soddisfare le necessità di un progetto e migliorare la produttività. Esempi di documenti di livello Expert includono piani aziendali, documenti di ricerca, un libro, una brochure specializzata e mailing di massa.
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  In sede di esame verrà valutata la tua capacità di personalizzare gli ambienti Word per soddisfare le necessità di un progetto e migliorare la produttività. Esempi di documenti di livello Esperto includono piani aziendali, documenti di ricerca, un libro, una brochure specializzata e mailing di massa. I candidati devono dimostrare la corretta applicazione delle principali funzionalità di Word a livello di esperti e completare le attività in modo indipendente.
+subTitle: Questo esame misura la tua capacità di creare e gestire documenti professionali per più situazioni e scopi specifici. In sede di esame verrà valutata la tua capacità di personalizzare gli ambienti Word per soddisfare le necessità di un progetto e migliorare la produttività. Esempi di documenti di livello Esperto includono piani aziendali, documenti di ricerca, un libro, una brochure specializzata e mailing di massa.
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WS8K
+providers:
+- providerType: certiport
+  examUrl: http://www.certiport.com/locator
 locales:
 - en
-providers:
-  - providerType: certiport
-    examUrl: https://www.certiport.com/locator
 levels:
 - intermediate
 skills:
@@ -34,11 +37,12 @@ resources:
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi un alloggio
-  description: Scopri come richiedere un alloggio per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+

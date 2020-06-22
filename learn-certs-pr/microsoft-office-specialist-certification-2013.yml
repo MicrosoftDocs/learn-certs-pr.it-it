@@ -6,10 +6,10 @@ metadata:
 uid: certification.microsoft-office-specialist-certification-2013
 iconUrl: /media/learn/certification/badges/microsoft-certified-associate-badge.svg
 summary: |-
-  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  
-  Questa certificazione ti permette di dimostrare che hai le competenze necessarie per sfruttare al meglio Office, ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico. Office 2013 combina il cloud e le tecnologie Web per estendere le modalità di creazione e utilizzo delle informazioni, e introduce un nuovo modello di app cloud per lo sviluppo di app sicure e flessibili, tutte individuabili dalla familiare interfaccia di Office.
-  
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  Questa certificazione ti permette di dimostrare che hai le competenze necessarie per sfruttare al massimo Office ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico. Office 2013 combina il cloud e le tecnologie Web per estendere le modalità di creazione e utilizzo delle informazioni, e introduce un nuovo modello di app cloud per lo sviluppo di app sicure e flessibili, tutte individuabili dalla familiare interfaccia di Office.
+
   Per ottenere la certificazione Microsoft Office Specialist on Microsoft Office 2013, devi superare qualsiasi o tutti e 7 gli esami allo scopo di ottenere la certificazione per quel programma specifico&#58;
   - [Exam 77-418&#58; Microsoft Office Word 2013](/learn/certifications/exams/77-418)
   - [Exam 77-420&#58; Microsoft Office Excel 2013](/learn/certifications/exams/77-420)
@@ -17,8 +17,8 @@ summary: |-
   - [Exam 77-423&#58; Microsoft Office Outlook 2013](/learn/certifications/exams/77-423)
   - [Exam 77-424&#58; Microsoft Office Access 2013](/learn/certifications/exams/77-424)
   - [Exam 77-419&#58; Microsoft SharePoint 2013](/learn/certifications/exams/77-419)
-  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421) 
-subTitle: Questa certificazione ti permette di dimostrare che hai le competenze necessarie per sfruttare al meglio Office, ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico. Office 2013 combina il cloud e le tecnologie Web per estendere le modalità di creazione e utilizzo delle informazioni, e introduce un nuovo modello di app cloud per lo sviluppo di app sicure e flessibili, tutte individuabili dalla familiare interfaccia di Office.
+  - [Exam 77-421&#58; Microsoft Office OneNote 2013](/learn/certifications/exams/77-421)
+subTitle: Questa certificazione ti permette di dimostrare che hai le competenze necessarie per sfruttare al massimo Office ottenendo una certificazione Microsoft Office Specialist (MOS) in un programma Office specifico. Office 2013 combina il cloud e le tecnologie Web per estendere le modalità di creazione e utilizzo delle informazioni, e introduce un nuovo modello di app cloud per lo sviluppo di app sicure e flessibili, tutte individuabili dalla familiare interfaccia di Office.
 levels:
 - beginner
 skills:
@@ -36,10 +36,10 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni

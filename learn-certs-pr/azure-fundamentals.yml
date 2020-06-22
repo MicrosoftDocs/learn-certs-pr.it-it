@@ -1,19 +1,28 @@
 ### YamlMime:Certification
-title: Microsoft Certified Azure Fundamentals
+title: 'Microsoft Certified: Azure Fundamentals'
 metadata:
-  title: Microsoft Certified Azure Fundamentals
-  description: Dimostra di comprendere concetti cloud, i servizi di base di Azure, i prezzi e il supporto di Azure e i fondamenti della sicurezza del cloud, della privacy, della conformità e della fiducia.
+  title: 'Microsoft Certified: Azure Fundamentals'
+  description: 'Azure Fundamentals convalida la conoscenza di base dei servizi cloud e di come questi servizi vengano forniti con Microsoft Azure.'
 uid: certification.azure-fundamentals
 iconUrl: /media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg
-summary: Dimostra di comprendere concetti cloud, i servizi di base di Azure, i prezzi e il supporto di Azure e i fondamenti della sicurezza del cloud, della privacy, della conformità e della fiducia.
-subTitle: Dimostra di comprendere concetti cloud, i servizi di base di Azure, i prezzi e il supporto di Azure e i fondamenti della sicurezza del cloud, della privacy, della conformità e della fiducia.
+summary: |-
+  <div><font color='red'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong></font><br/><br/></div>
+
+  I candidati alla certificazione Azure Fundamentals dovrebbero avere una conoscenza di base dei servizi cloud e di come questi servizi vengano forniti con Microsoft Azure.
+
+  La certificazione Azure Fundamentals è un'opportunità per dimostrare la conoscenza dei concetti di cloud, dei servizi di Azure di base, dei prezzi di Azure, dello SLA e del ciclo di vita, nonché i fondamenti di sicurezza, privacy, conformità e affidabilità del cloud.
+
+  Questa certificazione è pensata per le persone che iniziano a lavorare con soluzioni e servizi basati su cloud. I candidati dovrebbero essere in grado di dimostrare una conoscenza di base dei concetti del cloud, nonché dei servizi di Azure, dei carichi di lavoro, della sicurezza, della privacy, dei prezzi e del supporto. Inoltre, dovresti avere familiarità con i concetti di rete, archiviazione, elaborazione, supporto delle applicazioni e sviluppo delle applicazioni.
+
+  I Fondamenti di Azure possono essere usati per preparare altre certificazioni basate sul ruolo o di specialità di Azure, ma non è un prerequisito per alcuno di essi.
+subTitle: Azure Fundamentals convalida la conoscenza di base dei servizi cloud e di come questi servizi vengano forniti con Microsoft Azure.
 levels:
 - beginner
 skills:
-- Comprendere i concetti cloud
-- Comprendere i servizi Core Azure
-- Conoscere la sicurezza, la privacy, la conformità e l'affidabilità
-- Conoscere i prezzi e le opzioni di supporto di Azure
+- Descrivere i concetti del cloud
+- Descrivere i principali servizi di Azure
+- Descrivere sicurezza, privacy, conformità e fiducia
+- Descrivere gli accordi sui livelli di servizio dei prezzi di Azure e i cicli di vita
 roles:
 - developer
 type: fundamentals
@@ -21,27 +30,29 @@ products:
 - azure
 courses:
 - uid: course.az-900t01
+- uid: course.az-900t00
 paths:
 - uid: learn.cloud-foundations
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3WzVA
 exams:
 - uid: exam.az-900
 resources:
-- title: Percorso di formazione per ottenere la certificazione
-  description: 'Scopri le risorse di formazione per diventare un Microsoft Certified: Azure Fundamentals.'
-  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE38YZj
+- title: Poster delle certificazioni di Azure
+  description: Dai un'occhiata a una panoramica che include le certificazioni di base, quelle basate sui ruoli e quelle di specialità di Azure.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wyqh
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster sulle certificazioni
-  description: Consulta la panoramica delle certificazioni role-based, foundamentals and specialty
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: deals.md
 - title: Assistenza per le certificazioni
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
+

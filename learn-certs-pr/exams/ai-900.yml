@@ -1,0 +1,78 @@
+### YamlMime:Examination
+title: 'Microsoft Azure AI Fundamentals (beta)'
+metadata:
+  title: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+  description: 'Exam AI-900: Microsoft Azure AI Fundamentals (beta)'
+uid: exam.ai-900
+displayName: AI-900
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  I candidati a questo esame dovrebbero avere una conoscenza di base dei concetti di machine learning (ML) e intelligenza artificiale (IA) e dei relativi servizi di Microsoft Azure.
+
+  Questo esame è un'opportunità per dimostrare la conoscenza dei comuni carichi di lavoro ML e AI e su come implementarli in Azure.  
+
+  Questo esame è destinato a candidati con background sia tecnici sia non. Non è richiesta esperienza di ingegneria dei dati e di scienza dei dati; tuttavia, sarebbero utili alcune conoscenze o esperienze di programmazione generale.  
+
+  I principi fondamentali di Azure AI possono essere usati per preparare altre certificazioni basate sul ruolo di Azure come Azure Data Scientist Associate o Azure AI Engineer Associate, ma non è un prerequisito per alcuno di essi.  
+
+  <div style='font-weight&#58; bold;'><br/>Nota&#58; Questo esame sarà disponibile dal 8 giugno 2020 o intorno a tale data.</div>
+subTitle: "Questo esame sarà disponibile dal 8 giugno 2020 o intorno a tale data. Dimostra di poter descrivere quanto segue: I carichi di lavoro e le considerazioni sull'IA; i principi fondamentali del machine learning in Azure; funzionalità di visione dei carichi di lavoro sul computer su Azure; e funzionalità dei carichi di lavoro dell'IA conversazionale su Azure"
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4wGpB
+locales:
+- en
+levels:
+- beginner
+skills:
+- Descrivere i carichi di lavoro e le considerazioni sull'IA (15-20%)
+- Descrivere i principi fondamentali del machine learning in Azure (30-35%)
+- Descrivere le funzionalità della visione dei carichi di lavoro del computer in Azure (15-20%)
+- Descrivere le funzionalità dei carichi di lavoro di IA conversazionale in Azure (15-20%)
+roles:
+- ai-engineer
+- data-scientist
+- developer
+- solution-architect
+products:
+- azure
+- azure-bot-service
+- azure-cognitive-search
+- azure-cognitive-services
+- azure-computer-vision
+- azure-form-recognizer
+- azure-language-understanding
+- azure-machine-learning
+- azure-qna-maker
+- azure-speech-text
+- azure-speech-translation
+- azure-text-analytics
+- azure-text-speech
+- azure-translator-speech
+- azure-translator-text
+relatedCertifications:
+- related:
+    uid: certification.azure-ai-fundamentals
+resources:
+- title: Guida alla formazione e alla certificazione
+  description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Assistenza per gli esami di certificazione
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  href: ../help.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi i criteri dell’esame e le domande frequenti.
+  href: ../certification-exam-policies.md
+

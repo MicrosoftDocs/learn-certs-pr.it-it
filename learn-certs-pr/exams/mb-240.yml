@@ -8,14 +8,14 @@ displayName: MB-240
 summary: |-
   <div>
   <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
-  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il il 19 maggio 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame è stato aggiornato il martedì 19 maggio 2020. Scarica il documento relativo alle competenze misurate, riportato di seguito, per vedere che cosa è cambiato.<br/><br/></div>
   </div>
 
   I candidati idoneo a questo esame sono consulenti funzionali di Microsoft Dynamics 365 Customer Engagement con esperienza nell’assistenza sul campo. Si occupano di implementare soluzioni per la gestione di risorse che completino il ciclo di vita dell’assistenza sul campo.
 
-  Devono anche sapere implementare i processi dell’assistenza sul campo progettati in collaborazione con i team interni ed esterni. Questa collaborazione include configurare le aree di amministrazione predefinite dell’applicazione Field Service; distribuire la soluzione Connected Field Service (IoT) e l’applicazione mobile; implementare qualsiasi personalizzazione aggiuntiva necessaria. Hanno il compito di configurare e installare l’applicazione Field Service insieme all’applicazione di assistenza clienti di base.
+  I candidati devono anche saper implementare i processi dell’assistenza sul campo progettati in collaborazione con i team interni ed esterni. Questa collaborazione include configurare le aree di amministrazione predefinite dell’applicazione Field Service; distribuire la soluzione Connected Field Service (IoT) e l’applicazione mobile; e implementare qualsiasi personalizzazione aggiuntiva necessaria. I candidati hanno il compito di configurare e installare l’applicazione Field Service insieme all’applicazione di assistenza clienti di base.
 
-  Devono sapere come configurare e personalizzare i componenti dell’applicazione Field Service, compresa la configurazione di servizi, risorse, caratteristiche, incidenti, integrazione dell’inventario, accordi di assistenza, pianificazione delle risorse, ordini di lavoro, attività di servizio, ruoli utente per l’assistenza sul campo; impostazioni per l’assistenza sul campo, la soluzione Connected Field Service (IoT); configurare l’app Field Service Mobile.
+  Devono sapere come configurare e personalizzare i componenti dell’applicazione Field Service, compresa la configurazione di servizi, risorse, caratteristiche, incidenti, integrazione dell’inventario, accordi di assistenza, pianificazione delle risorse, ordini di lavoro, attività di servizio, ruoli utente per l’assistenza sul campo; impostazioni per l’assistenza sul campo, la soluzione Connected Field Service (IoT); nonché come  configurare l’app Field Service Mobile.
 subTitle: 'Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: configurare le applicazioni di Field Service; gestire gli ordini di lavoro; pianificare e approntare ordini di lavoro; gestire la mobilità di Field Service; gestire gli inventari e gli acquisti; e gestire le risorse e gli accordi.'
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3Vzxi
@@ -25,6 +25,7 @@ locales:
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame è stato aggiornato il martedì 19 maggio 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa è cambiato.
 - Configurare le applicazioni per l'assistenza sul campo (20-25%)
 - Gestire gli ordini di lavoro (15-20%)
 - Pianificare e inviare gli ordini di lavoro (20-25%)
@@ -53,10 +54,10 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Poster della certificazione
+- title: Poster di certificazione
   description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
-- title: Exam Replay [Ripetizione dell’esame]
+- title: Exam Replay
   description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
@@ -65,7 +66,7 @@ resources:
 - title: Dashboard delle certificazioni
   description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
   href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
 - title: Criteri dell’esame e domande frequenti

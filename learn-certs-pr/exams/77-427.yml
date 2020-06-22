@@ -1,0 +1,58 @@
+### YamlMime:Examination
+title: Excel 2013 Expert Part One
+metadata:
+  title: 'Exam 77-427: Excel 2013 Expert Part One'
+  description: 'Exam 77-427: Excel 2013 Expert Part One'
+uid: exam.77-427
+displayName: 77-427
+summary: |-
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+
+  I candidati di livello Esperto che sostengono l'esame su Excel 2013 devono avere una conoscenza avanzata dell'ambiente Excel ed essere in grado di aiutare gli altri utenti a utilizzare correttamente le funzionalità di Excel 2013 in Office Professional Plus. I candidati devono conoscere e dimostrare di saper utilizzare funzionalità avanzate e specifiche all'interno dell'applicazione.
+
+  I candidati devono essere in grado di creare, gestire e distribuire cartelle di lavoro professionali per vari scopi specifici e per più situazioni. Inoltre, devono essere in grado di personalizzare gli ambienti Excel in base alle esigenze e per migliorare la produttività. Esempi di cartelle di lavoro includono modelli aziendali personalizzati, grafici finanziari con più assi, tabelle di ammortamento e pianificazioni dell'inventario. I ruoli dei candidati possono includere contabili, analisti finanziari, analisti dei dati, operatori di banche commerciali e altri.
+subTitle: I candidati di livello Esperto che sostengono l'esame su Excel 2013 devono avere una conoscenza avanzata dell'ambiente Excel ed essere in grado di aiutare gli altri utenti a utilizzare correttamente le funzionalità di Excel 2013 in Office Professional Plus. I candidati devono conoscere e dimostrare di saper utilizzare funzionalità avanzate e specifiche all'interno dell'applicazione.
+iconUrl: /media/learn/certification/badges/certification-exam.svg
+pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4t557
+scheduleExamUrl: https://examregistration.microsoft.com/?action=1&locale=it-it&examcode=77-427&examname=Excel%202013%20Expert%20Part%20One&returnToLearningUrl=https://docs.microsoft.com/learn/certifications/exams/77-427
+locales:
+- en
+- zh-cn
+- zh-tw
+- de
+- es
+- fr
+- it
+- ja
+- ko
+- nl
+- pt-br
+- ru
+levels:
+- beginner
+skills:
+- Gestire e condividere cartelle di lavoro
+- Applicare formati e layout personalizzati
+- Creare formule avanzate
+- Creare tabelle e grafici avanzati
+roles:
+- business-user
+products:
+- office-excel
+relatedCertifications:
+- related:
+    uid: none
+resources:
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
+  href: ../deals.md
+- title: Dashboard delle certificazioni
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: https://www.microsoft.com/learning/dashboard.aspx
+- title: Richiedi alloggi
+  description: Scopri come richiedere una sistemazione particolare per il tuo esame.
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
+  href: ../certification-exam-policies.md
+

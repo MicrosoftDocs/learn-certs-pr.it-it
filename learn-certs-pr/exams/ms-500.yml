@@ -1,28 +1,32 @@
 ### YamlMime:Examination
 title: Microsoft 365 Security Administration
 metadata:
-  title: 'Esame MS-500: Microsoft 365 Security Administration'
-  description: 'Esame MS-500: Microsoft 365 Security Administration'
+  title: 'Exam MS-500: Microsoft 365 Security Administration'
+  description: 'Exam MS-500: Microsoft 365 Security Administration'
 uid: exam.ms-500
 displayName: MS-500
-summary: >-
-  I candidati idonei a questo esame devono essere in grado di implementare, gestire e monitorare le soluzioni di sicurezza e conformità per gli ambienti di Microsoft 365 e ibridi. Gli amministratori della sicurezza di Microsoft 365 mettono proattivamente in sicurezza l’ambiente aziendale di Microsoft 365, rispondono alle minacce, effettuano indagini e migliorano la gestione dei dati. Gli amministratori della sicurezza di Microsoft 365 collaborano con l’amministratore della sicurezza di Microsoft 365 Enterprise, le parti interessate all’interno dell’azienda e con amministratori che si occupano di altri carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione.
+summary: |-
+  <div>
+  <div style='color&#58; red;'><strong>In risposta alla situazione del Coronavirus (COVID-19), Microsoft sta implementando diverse modifiche temporanee al suo programma di formazione e certificazione. <a href='https://www.microsoft.com/en-us/learning/community-blog-post.aspx?BlogId=8&amp;Id=375289'>Ulteriori informazioni</a>.</strong><br/><br/></div>
+  <div style='font-weight&#58; bold;'>Il contenuto di questo esame sarà aggiornato il 8 giugno 2020. Si prega di scaricare il documento delle competenze misurate qui sotto per vedere cosa cambierà.<br/><br/></div>
+  </div>
 
+  I candidati idonei questo esame devono essere in grado di implementare, gestire e monitorare le soluzioni di sicurezza e conformità per gli ambienti di Microsoft 365 e ibridi. Il Microsoft 365 Security Administrator protegge proattivamente l’ambiente aziendale Microsoft 365, risponde alle minacce, effettua indagini e rafforza la gestione dei dati. Il Microsoft 365 Security Administrator collabora con il Microsoft 365 Enterprise Administrator, le parti aziendali interessate e altri amministratori di carichi di lavoro per pianificare e implementare strategie di sicurezza e verificare che le soluzioni siano conformi ai criteri e ai regolamenti dell’organizzazione.
   <br/>
-
 
   I candidati idonei questo esame hanno familiarità con i carichi di lavoro di Microsoft 365 e hanno solide competenze ed esperienza nella protezione delle identità, protezione delle informazioni, protezione dalle minacce, gestione della sicurezza e gestione dei dati. Questo ruolo è incentrato sull’ambiente di Microsoft 365 e comprende ambienti ibridi.
 subTitle: "Questo esame misura la tua capacità di eseguire le seguenti attività tecniche: implementare e gestire l’identità e l'accesso; implementare e gestire la protezione dalle minacce; implementare e gestire la protezione delle informazioni; e gestire le funzionalità di governance e conformità in Microsoft 365."
 iconUrl: /media/learn/certification/badges/certification-exam.svg
 pdfDownloadUrl: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3VEI3
 practiceTestUrl: https://www.mindhub.com/p/MU-MS-500?utm_source=microsoft&utm_medium=certpage&utm_campaign=msofficialpractice
+scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-500&examname=Exam%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Flearn%2Fcertifications%2Fexams%2Fms-500
 locales:
 - en
 - ja
-scheduleExamUrl: https://examregistration.microsoft.com/?locale=it-it&examcode=MS-500&examname=Esame%20MS-500:%20Microsoft%20365%20Security%20Administration&returnToLearningUrl=https%3A%2F%2Fdocs.microsoft.com%2Fit-it%2Flearn%2Fcertifications%2Fexams%2Fms-500
 levels:
 - intermediate
 skills:
+- Il contenuto di questo esame sarà aggiornato il 8 giugno 2020. Scarica il profilo delle competenze d'esame qui di seguito per vedere cosa cambierà.
 - Implementare e gestire le identità e l’accesso (30-35%)
 - Implementare e gestire la protezione dalle minacce (20-25%)
 - Implementare e gestire la protezione delle informazioni (15-20%)
@@ -50,18 +54,22 @@ resources:
 - title: Guida alla formazione e alla certificazione
   description: Esplora tutte le certificazioni in questa guida sintetica alla formazione e alla certificazione.
   href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
-- title: Exam Reply
-  description: Scopri due ottime offerte che ti aiutano a migliorare le tue probabilità di successo.
+- title: Poster di certificazione
+  description: Consulta la panoramica delle certificazioni di base, basate sui ruoli e di specializzazione.
+  href: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI
+- title: Exam Replay
+  description: Scopri due grandi offerte che ti aiutano a migliorare le tue probabilità di successo.
   href: ../deals.md
 - title: Assistenza per gli esami di certificazione
-  description: Ottieni assistenza tramite i forum di supporto per la certificazione Microsoft. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
+  description: Ottieni assistenza tramite i forum di supporto per la Microsoft Certification. Un moderatore del forum ti risponderà entro un giorno lavorativo, dal lunedì al venerdì.
   href: ../help.md
 - title: Dashboard delle certificazioni
-  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e i transcript
+  description: Rivedi e gestisci gli appuntamenti programmati, i certificati e le trascrizioni.
   href: https://www.microsoft.com/learning/dashboard.aspx
-- title: Richiedi una sistemazione particolare
+- title: Richiedi alloggi
   description: Scopri come richiedere una sistemazione particolare per il tuo esame.
-  href: https://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
-- title: Criteri degli esami e domande frequenti
+  href: http://www.pearsonvue.com/accommodations/pv_review.asp?clientName=Microsoft
+- title: Criteri dell’esame e domande frequenti
   description: Rivedi i criteri dell’esame e le domande frequenti.
   href: ../certification-exam-policies.md
+
